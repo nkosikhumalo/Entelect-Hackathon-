@@ -1,0 +1,1 @@
+[INFO] ticks used: 5002, actions: 294
