@@ -1,0 +1,1867 @@
+{
+  "actions": [
+    {
+      "type": "buy",
+      "item": "fish",
+      "quantity": 100
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N21"
+    },
+    {
+      "type": "travel",
+      "destination": "Shurima"
+    },
+    {
+      "type": "buy",
+      "item": "wheat",
+      "quantity": 50
+    },
+    {
+      "type": "travel",
+      "destination": "N21"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "craft",
+      "item": "fish-n-chips",
+      "quantity": 50
+    },
+    {
+      "type": "sell",
+      "item": "fish-n-chips",
+      "quantity": 50
+    },
+    {
+      "type": "buy",
+      "item": "fish",
+      "quantity": 300
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N21"
+    },
+    {
+      "type": "travel",
+      "destination": "Shurima"
+    },
+    {
+      "type": "buy",
+      "item": "wheat",
+      "quantity": 150
+    },
+    {
+      "type": "travel",
+      "destination": "N21"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "craft",
+      "item": "fish-n-chips",
+      "quantity": 150
+    },
+    {
+      "type": "sell",
+      "item": "fish-n-chips",
+      "quantity": 150
+    },
+    {
+      "type": "buy",
+      "item": "fish",
+      "quantity": 900
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N21"
+    },
+    {
+      "type": "travel",
+      "destination": "Shurima"
+    },
+    {
+      "type": "buy",
+      "item": "wheat",
+      "quantity": 450
+    },
+    {
+      "type": "travel",
+      "destination": "N21"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "craft",
+      "item": "fish-n-chips",
+      "quantity": 450
+    },
+    {
+      "type": "sell",
+      "item": "fish-n-chips",
+      "quantity": 450
+    },
+    {
+      "type": "buy",
+      "item": "fish",
+      "quantity": 2700
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N21"
+    },
+    {
+      "type": "travel",
+      "destination": "Shurima"
+    },
+    {
+      "type": "buy",
+      "item": "wheat",
+      "quantity": 1350
+    },
+    {
+      "type": "travel",
+      "destination": "N21"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "craft",
+      "item": "fish-n-chips",
+      "quantity": 1350
+    },
+    {
+      "type": "sell",
+      "item": "fish-n-chips",
+      "quantity": 1350
+    },
+    {
+      "type": "buy",
+      "item": "fish",
+      "quantity": 8000
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N21"
+    },
+    {
+      "type": "travel",
+      "destination": "Shurima"
+    },
+    {
+      "type": "buy",
+      "item": "wheat",
+      "quantity": 4000
+    },
+    {
+      "type": "travel",
+      "destination": "N21"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "craft",
+      "item": "fish-n-chips",
+      "quantity": 4000
+    },
+    {
+      "type": "sell",
+      "item": "fish-n-chips",
+      "quantity": 4000
+    },
+    {
+      "type": "buy",
+      "item": "fish",
+      "quantity": 10000
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N21"
+    },
+    {
+      "type": "travel",
+      "destination": "Shurima"
+    },
+    {
+      "type": "buy",
+      "item": "wheat",
+      "quantity": 5000
+    },
+    {
+      "type": "travel",
+      "destination": "N21"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "craft",
+      "item": "fish-n-chips",
+      "quantity": 5000
+    },
+    {
+      "type": "sell",
+      "item": "fish-n-chips",
+      "quantity": 5000
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "gather"
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N8"
+    },
+    {
+      "type": "travel",
+      "destination": "Aurora"
+    },
+    {
+      "type": "travel",
+      "destination": "Piltover"
+    },
+    {
+      "type": "buy",
+      "item": "wood",
+      "quantity": 1022
+    },
+    {
+      "type": "travel",
+      "destination": "Aurora"
+    },
+    {
+      "type": "travel",
+      "destination": "N8"
+    },
+    {
+      "type": "travel",
+      "destination": "Shurima"
+    },
+    {
+      "type": "buy",
+      "item": "wheat",
+      "quantity": 120
+    },
+    {
+      "type": "travel",
+      "destination": "N8"
+    },
+    {
+      "type": "travel",
+      "destination": "N20"
+    },
+    {
+      "type": "travel",
+      "destination": "Targon"
+    },
+    {
+      "type": "buy",
+      "item": "sheep",
+      "quantity": 394
+    },
+    {
+      "type": "travel",
+      "destination": "N19"
+    },
+    {
+      "type": "travel",
+      "destination": "N18"
+    },
+    {
+      "type": "travel",
+      "destination": "N6",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Ixtal"
+    },
+    {
+      "type": "buy",
+      "item": "clay",
+      "quantity": 1425
+    },
+    {
+      "type": "travel",
+      "destination": "N6"
+    },
+    {
+      "type": "travel",
+      "destination": "N18",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Freljord"
+    },
+    {
+      "type": "travel",
+      "destination": "Aurora"
+    },
+    {
+      "type": "travel",
+      "destination": "N11",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "N5"
+    },
+    {
+      "type": "travel",
+      "destination": "Zaun"
+    },
+    {
+      "type": "buy",
+      "item": "stone",
+      "quantity": 885
+    },
+    {
+      "type": "travel",
+      "destination": "N5"
+    },
+    {
+      "type": "travel",
+      "destination": "N11"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "craft",
+      "item": "planks",
+      "quantity": 138
+    },
+    {
+      "type": "craft",
+      "item": "thatch",
+      "quantity": 24
+    },
+    {
+      "type": "craft",
+      "item": "mortar",
+      "quantity": 174
+    },
+    {
+      "type": "craft",
+      "item": "bricks",
+      "quantity": 174
+    },
+    {
+      "type": "craft",
+      "item": "stone-blocks",
+      "quantity": 60
+    },
+    {
+      "type": "craft",
+      "item": "kiln-glass",
+      "quantity": 24
+    },
+    {
+      "type": "craft",
+      "item": "rope",
+      "quantity": 80
+    },
+    {
+      "type": "craft",
+      "item": "fencing",
+      "quantity": 36
+    },
+    {
+      "type": "craft",
+      "item": "nets",
+      "quantity": 12
+    },
+    {
+      "type": "craft",
+      "item": "iron-fittings",
+      "quantity": 14
+    },
+    {
+      "type": "craft",
+      "item": "boots",
+      "quantity": 1
+    },
+    {
+      "type": "build",
+      "upgrade": "farmhouse"
+    },
+    {
+      "type": "build",
+      "upgrade": "fertilised-fields"
+    },
+    {
+      "type": "build",
+      "upgrade": "rec-center"
+    },
+    {
+      "type": "build",
+      "upgrade": "fire-station"
+    },
+    {
+      "type": "build",
+      "upgrade": "school"
+    },
+    {
+      "type": "build",
+      "upgrade": "library"
+    },
+    {
+      "type": "build",
+      "upgrade": "police-station"
+    },
+    {
+      "type": "build",
+      "upgrade": "pier"
+    },
+    {
+      "type": "build",
+      "upgrade": "quarry"
+    },
+    {
+      "type": "build",
+      "upgrade": "woodlands"
+    },
+    {
+      "type": "build",
+      "upgrade": "pottery-house"
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "build",
+      "upgrade": "farmhouse"
+    },
+    {
+      "type": "build",
+      "upgrade": "fertilised-fields"
+    },
+    {
+      "type": "build",
+      "upgrade": "rec-center"
+    },
+    {
+      "type": "build",
+      "upgrade": "fire-station"
+    },
+    {
+      "type": "build",
+      "upgrade": "school"
+    },
+    {
+      "type": "build",
+      "upgrade": "library"
+    },
+    {
+      "type": "build",
+      "upgrade": "police-station"
+    },
+    {
+      "type": "build",
+      "upgrade": "pier"
+    },
+    {
+      "type": "build",
+      "upgrade": "quarry"
+    },
+    {
+      "type": "build",
+      "upgrade": "woodlands"
+    },
+    {
+      "type": "build",
+      "upgrade": "pottery-house"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "travel",
+      "destination": "N11"
+    },
+    {
+      "type": "travel",
+      "destination": "Aurora",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Piltover"
+    },
+    {
+      "type": "build",
+      "upgrade": "farmhouse"
+    },
+    {
+      "type": "build",
+      "upgrade": "fertilised-fields"
+    },
+    {
+      "type": "build",
+      "upgrade": "rec-center"
+    },
+    {
+      "type": "build",
+      "upgrade": "fire-station"
+    },
+    {
+      "type": "build",
+      "upgrade": "school"
+    },
+    {
+      "type": "build",
+      "upgrade": "library"
+    },
+    {
+      "type": "build",
+      "upgrade": "police-station"
+    },
+    {
+      "type": "build",
+      "upgrade": "pier"
+    },
+    {
+      "type": "build",
+      "upgrade": "quarry"
+    },
+    {
+      "type": "build",
+      "upgrade": "woodlands"
+    },
+    {
+      "type": "build",
+      "upgrade": "pottery-house"
+    },
+    {
+      "type": "travel",
+      "destination": "Aurora"
+    },
+    {
+      "type": "travel",
+      "destination": "N8"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N17"
+    },
+    {
+      "type": "travel",
+      "destination": "Bandle",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Ionia"
+    },
+    {
+      "type": "build",
+      "upgrade": "farmhouse"
+    },
+    {
+      "type": "build",
+      "upgrade": "fertilised-fields"
+    },
+    {
+      "type": "build",
+      "upgrade": "rec-center"
+    },
+    {
+      "type": "build",
+      "upgrade": "fire-station"
+    },
+    {
+      "type": "build",
+      "upgrade": "school"
+    },
+    {
+      "type": "build",
+      "upgrade": "library"
+    },
+    {
+      "type": "build",
+      "upgrade": "police-station"
+    },
+    {
+      "type": "build",
+      "upgrade": "pier"
+    },
+    {
+      "type": "build",
+      "upgrade": "quarry"
+    },
+    {
+      "type": "build",
+      "upgrade": "woodlands"
+    },
+    {
+      "type": "build",
+      "upgrade": "pottery-house"
+    },
+    {
+      "type": "travel",
+      "destination": "Bandle"
+    },
+    {
+      "type": "travel",
+      "destination": "N17",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N8"
+    },
+    {
+      "type": "travel",
+      "destination": "Aurora"
+    },
+    {
+      "type": "travel",
+      "destination": "Freljord"
+    },
+    {
+      "type": "build",
+      "upgrade": "farmhouse"
+    },
+    {
+      "type": "build",
+      "upgrade": "fertilised-fields"
+    },
+    {
+      "type": "build",
+      "upgrade": "rec-center"
+    },
+    {
+      "type": "build",
+      "upgrade": "fire-station"
+    },
+    {
+      "type": "build",
+      "upgrade": "school"
+    },
+    {
+      "type": "build",
+      "upgrade": "library"
+    },
+    {
+      "type": "build",
+      "upgrade": "police-station"
+    },
+    {
+      "type": "build",
+      "upgrade": "pier"
+    },
+    {
+      "type": "build",
+      "upgrade": "quarry"
+    },
+    {
+      "type": "build",
+      "upgrade": "woodlands"
+    },
+    {
+      "type": "build",
+      "upgrade": "pottery-house"
+    },
+    {
+      "type": "travel",
+      "destination": "N18"
+    },
+    {
+      "type": "travel",
+      "destination": "N19"
+    },
+    {
+      "type": "travel",
+      "destination": "Targon"
+    },
+    {
+      "type": "build",
+      "upgrade": "farmhouse"
+    },
+    {
+      "type": "build",
+      "upgrade": "fertilised-fields"
+    },
+    {
+      "type": "build",
+      "upgrade": "rec-center"
+    },
+    {
+      "type": "build",
+      "upgrade": "fire-station"
+    },
+    {
+      "type": "build",
+      "upgrade": "school"
+    },
+    {
+      "type": "build",
+      "upgrade": "library"
+    },
+    {
+      "type": "build",
+      "upgrade": "police-station"
+    },
+    {
+      "type": "build",
+      "upgrade": "pier"
+    },
+    {
+      "type": "build",
+      "upgrade": "quarry"
+    },
+    {
+      "type": "build",
+      "upgrade": "woodlands"
+    },
+    {
+      "type": "build",
+      "upgrade": "pottery-house"
+    },
+    {
+      "type": "craft",
+      "item": "planks",
+      "quantity": 207
+    },
+    {
+      "type": "craft",
+      "item": "thatch",
+      "quantity": 36
+    },
+    {
+      "type": "craft",
+      "item": "mortar",
+      "quantity": 261
+    },
+    {
+      "type": "craft",
+      "item": "bricks",
+      "quantity": 261
+    },
+    {
+      "type": "craft",
+      "item": "stone-blocks",
+      "quantity": 90
+    },
+    {
+      "type": "craft",
+      "item": "kiln-glass",
+      "quantity": 36
+    },
+    {
+      "type": "craft",
+      "item": "rope",
+      "quantity": 117
+    },
+    {
+      "type": "craft",
+      "item": "fencing",
+      "quantity": 54
+    },
+    {
+      "type": "craft",
+      "item": "nets",
+      "quantity": 18
+    },
+    {
+      "type": "craft",
+      "item": "iron-fittings",
+      "quantity": 18
+    },
+    {
+      "type": "travel",
+      "destination": "N4"
+    },
+    {
+      "type": "travel",
+      "destination": "Zaun"
+    },
+    {
+      "type": "build",
+      "upgrade": "farmhouse"
+    },
+    {
+      "type": "build",
+      "upgrade": "fertilised-fields"
+    },
+    {
+      "type": "build",
+      "upgrade": "rec-center"
+    },
+    {
+      "type": "build",
+      "upgrade": "fire-station"
+    },
+    {
+      "type": "build",
+      "upgrade": "school"
+    },
+    {
+      "type": "build",
+      "upgrade": "library"
+    },
+    {
+      "type": "build",
+      "upgrade": "police-station"
+    },
+    {
+      "type": "build",
+      "upgrade": "pier"
+    },
+    {
+      "type": "build",
+      "upgrade": "quarry"
+    },
+    {
+      "type": "build",
+      "upgrade": "woodlands"
+    },
+    {
+      "type": "build",
+      "upgrade": "pottery-house"
+    },
+    {
+      "type": "travel",
+      "destination": "N5"
+    },
+    {
+      "type": "travel",
+      "destination": "N11"
+    },
+    {
+      "type": "travel",
+      "destination": "N1"
+    },
+    {
+      "type": "travel",
+      "destination": "Shurima"
+    },
+    {
+      "type": "build",
+      "upgrade": "farmhouse"
+    },
+    {
+      "type": "build",
+      "upgrade": "fertilised-fields"
+    },
+    {
+      "type": "build",
+      "upgrade": "rec-center"
+    },
+    {
+      "type": "build",
+      "upgrade": "fire-station"
+    },
+    {
+      "type": "build",
+      "upgrade": "school"
+    },
+    {
+      "type": "build",
+      "upgrade": "library"
+    },
+    {
+      "type": "build",
+      "upgrade": "police-station"
+    },
+    {
+      "type": "build",
+      "upgrade": "pier"
+    },
+    {
+      "type": "build",
+      "upgrade": "quarry"
+    },
+    {
+      "type": "build",
+      "upgrade": "woodlands"
+    },
+    {
+      "type": "build",
+      "upgrade": "pottery-house"
+    },
+    {
+      "type": "travel",
+      "destination": "N21"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "build",
+      "upgrade": "farmhouse"
+    },
+    {
+      "type": "build",
+      "upgrade": "fertilised-fields"
+    },
+    {
+      "type": "build",
+      "upgrade": "rec-center"
+    },
+    {
+      "type": "build",
+      "upgrade": "fire-station"
+    },
+    {
+      "type": "build",
+      "upgrade": "school"
+    },
+    {
+      "type": "build",
+      "upgrade": "library"
+    },
+    {
+      "type": "build",
+      "upgrade": "police-station"
+    },
+    {
+      "type": "build",
+      "upgrade": "pier"
+    },
+    {
+      "type": "build",
+      "upgrade": "quarry"
+    },
+    {
+      "type": "build",
+      "upgrade": "woodlands"
+    },
+    {
+      "type": "build",
+      "upgrade": "pottery-house"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Ixtal"
+    },
+    {
+      "type": "build",
+      "upgrade": "farmhouse"
+    },
+    {
+      "type": "build",
+      "upgrade": "fertilised-fields"
+    },
+    {
+      "type": "build",
+      "upgrade": "rec-center"
+    },
+    {
+      "type": "build",
+      "upgrade": "fire-station"
+    },
+    {
+      "type": "build",
+      "upgrade": "school"
+    },
+    {
+      "type": "build",
+      "upgrade": "library"
+    },
+    {
+      "type": "build",
+      "upgrade": "police-station"
+    },
+    {
+      "type": "build",
+      "upgrade": "pier"
+    },
+    {
+      "type": "build",
+      "upgrade": "quarry"
+    },
+    {
+      "type": "build",
+      "upgrade": "woodlands"
+    },
+    {
+      "type": "build",
+      "upgrade": "pottery-house"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N17"
+    },
+    {
+      "type": "travel",
+      "destination": "Bandle",
+      "fast": true
+    },
+    {
+      "type": "build",
+      "upgrade": "farmhouse"
+    },
+    {
+      "type": "build",
+      "upgrade": "fertilised-fields"
+    },
+    {
+      "type": "build",
+      "upgrade": "rec-center"
+    },
+    {
+      "type": "build",
+      "upgrade": "fire-station"
+    },
+    {
+      "type": "build",
+      "upgrade": "school"
+    },
+    {
+      "type": "build",
+      "upgrade": "library"
+    },
+    {
+      "type": "build",
+      "upgrade": "police-station"
+    },
+    {
+      "type": "build",
+      "upgrade": "pier"
+    },
+    {
+      "type": "build",
+      "upgrade": "quarry"
+    },
+    {
+      "type": "build",
+      "upgrade": "woodlands"
+    },
+    {
+      "type": "build",
+      "upgrade": "pottery-house"
+    },
+    {
+      "type": "travel",
+      "destination": "N17",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N8"
+    },
+    {
+      "type": "travel",
+      "destination": "Aurora"
+    },
+    {
+      "type": "build",
+      "upgrade": "farmhouse"
+    },
+    {
+      "type": "build",
+      "upgrade": "fertilised-fields"
+    },
+    {
+      "type": "build",
+      "upgrade": "rec-center"
+    },
+    {
+      "type": "build",
+      "upgrade": "fire-station"
+    },
+    {
+      "type": "build",
+      "upgrade": "school"
+    },
+    {
+      "type": "build",
+      "upgrade": "library"
+    },
+    {
+      "type": "build",
+      "upgrade": "police-station"
+    },
+    {
+      "type": "build",
+      "upgrade": "pier"
+    },
+    {
+      "type": "build",
+      "upgrade": "quarry"
+    },
+    {
+      "type": "build",
+      "upgrade": "woodlands"
+    },
+    {
+      "type": "build",
+      "upgrade": "pottery-house"
+    },
+    {
+      "type": "travel",
+      "destination": "N8"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "build",
+      "upgrade": "farmhouse"
+    },
+    {
+      "type": "build",
+      "upgrade": "fertilised-fields"
+    },
+    {
+      "type": "build",
+      "upgrade": "rec-center"
+    },
+    {
+      "type": "build",
+      "upgrade": "fire-station"
+    },
+    {
+      "type": "build",
+      "upgrade": "school"
+    },
+    {
+      "type": "build",
+      "upgrade": "library"
+    },
+    {
+      "type": "build",
+      "upgrade": "police-station"
+    },
+    {
+      "type": "build",
+      "upgrade": "pier"
+    },
+    {
+      "type": "build",
+      "upgrade": "quarry"
+    },
+    {
+      "type": "build",
+      "upgrade": "woodlands"
+    },
+    {
+      "type": "build",
+      "upgrade": "pottery-house"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "build",
+      "upgrade": "farmhouse"
+    },
+    {
+      "type": "build",
+      "upgrade": "fertilised-fields"
+    },
+    {
+      "type": "build",
+      "upgrade": "rec-center"
+    },
+    {
+      "type": "build",
+      "upgrade": "fire-station"
+    },
+    {
+      "type": "build",
+      "upgrade": "school"
+    },
+    {
+      "type": "build",
+      "upgrade": "library"
+    },
+    {
+      "type": "build",
+      "upgrade": "police-station"
+    },
+    {
+      "type": "build",
+      "upgrade": "pier"
+    },
+    {
+      "type": "build",
+      "upgrade": "quarry"
+    },
+    {
+      "type": "build",
+      "upgrade": "woodlands"
+    },
+    {
+      "type": "build",
+      "upgrade": "pottery-house"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "travel",
+      "destination": "N11"
+    },
+    {
+      "type": "travel",
+      "destination": "Highgarden",
+      "fast": true
+    },
+    {
+      "type": "build",
+      "upgrade": "farmhouse"
+    },
+    {
+      "type": "build",
+      "upgrade": "fertilised-fields"
+    },
+    {
+      "type": "build",
+      "upgrade": "rec-center"
+    },
+    {
+      "type": "build",
+      "upgrade": "fire-station"
+    },
+    {
+      "type": "build",
+      "upgrade": "school"
+    },
+    {
+      "type": "build",
+      "upgrade": "library"
+    },
+    {
+      "type": "build",
+      "upgrade": "police-station"
+    },
+    {
+      "type": "build",
+      "upgrade": "pier"
+    },
+    {
+      "type": "build",
+      "upgrade": "quarry"
+    },
+    {
+      "type": "build",
+      "upgrade": "woodlands"
+    },
+    {
+      "type": "build",
+      "upgrade": "pottery-house"
+    },
+    {
+      "type": "travel",
+      "destination": "N11",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "N2"
+    },
+    {
+      "type": "travel",
+      "destination": "Noxus"
+    },
+    {
+      "type": "travel",
+      "destination": "N7"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "buy",
+      "item": "fish",
+      "quantity": 12000
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N21"
+    },
+    {
+      "type": "travel",
+      "destination": "Shurima"
+    },
+    {
+      "type": "buy",
+      "item": "wheat",
+      "quantity": 6000
+    },
+    {
+      "type": "travel",
+      "destination": "N21"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "craft",
+      "item": "fish-n-chips",
+      "quantity": 6000
+    },
+    {
+      "type": "sell",
+      "item": "fish-n-chips",
+      "quantity": 6000
+    },
+    {
+      "type": "buy",
+      "item": "fish",
+      "quantity": 30000
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N21"
+    },
+    {
+      "type": "travel",
+      "destination": "Shurima"
+    },
+    {
+      "type": "buy",
+      "item": "wheat",
+      "quantity": 15000
+    },
+    {
+      "type": "travel",
+      "destination": "N21"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "craft",
+      "item": "fish-n-chips",
+      "quantity": 15000
+    },
+    {
+      "type": "sell",
+      "item": "fish-n-chips",
+      "quantity": 15000
+    },
+    {
+      "type": "buy",
+      "item": "fish",
+      "quantity": 30008
+    },
+    {
+      "type": "travel",
+      "destination": "N9"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "N21"
+    },
+    {
+      "type": "travel",
+      "destination": "Shurima"
+    },
+    {
+      "type": "buy",
+      "item": "wheat",
+      "quantity": 15004
+    },
+    {
+      "type": "travel",
+      "destination": "N21"
+    },
+    {
+      "type": "travel",
+      "destination": "Bilgewater"
+    },
+    {
+      "type": "travel",
+      "destination": "Evermoor"
+    },
+    {
+      "type": "travel",
+      "destination": "Borealis"
+    },
+    {
+      "type": "travel",
+      "destination": "N9",
+      "fast": true
+    },
+    {
+      "type": "travel",
+      "destination": "Demacia"
+    },
+    {
+      "type": "craft",
+      "item": "fish-n-chips",
+      "quantity": 15004
+    },
+    {
+      "type": "sell",
+      "item": "fish-n-chips",
+      "quantity": 15004
+    }
+  ]
+}
