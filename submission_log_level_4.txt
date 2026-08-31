@@ -1,0 +1,600 @@
+Action 0: Travel to 'Marrowfen' (standard, 4 ticks, Toll 0).
+Action 1: Travel to 'Noxus' (standard, 1 ticks, Toll 0).
+Action 2: Buy 200 fish for 1200 Enteloot.
+Action 3: Travel to 'Marrowfen' (standard, 1 ticks, Toll 0).
+Action 4: Buy 100 wheat for 400 Enteloot.
+Action 5: Travel to 'Demacia' (standard, 4 ticks, Toll 0).
+Action 6: craft 100x fish-n-chips (recipe).
+Action 7: Sell 100 fish-n-chips for 4000 Enteloot.
+Action 8: Travel to 'Marrowfen' (standard, 4 ticks, Toll 0).
+Action 9: Travel to 'Noxus' (standard, 1 ticks, Toll 0).
+Action 10: Buy 400 fish for 2400 Enteloot.
+Action 11: Travel to 'Marrowfen' (standard, 1 ticks, Toll 0).
+Action 12: Buy 200 wheat for 800 Enteloot.
+Action 13: Travel to 'Demacia' (standard, 4 ticks, Toll 0).
+Action 14: craft 200x fish-n-chips (recipe).
+Action 15: Sell 200 fish-n-chips for 8000 Enteloot.
+Action 16: Travel to 'Marrowfen' (standard, 4 ticks, Toll 0).
+Action 17: Travel to 'Noxus' (standard, 1 ticks, Toll 0).
+Action 18: Buy 1000 fish for 6000 Enteloot.
+Action 19: Travel to 'Marrowfen' (standard, 1 ticks, Toll 0).
+Action 20: Buy 500 wheat for 2000 Enteloot.
+Action 21: Travel to 'Demacia' (standard, 4 ticks, Toll 0).
+Action 22: craft 500x fish-n-chips (recipe).
+Action 23: Sell 500 fish-n-chips for 20000 Enteloot.
+Action 24: Travel to 'Marrowfen' (standard, 4 ticks, Toll 0).
+Action 25: Travel to 'Noxus' (standard, 1 ticks, Toll 0).
+Action 26: Buy 2400 fish for 14400 Enteloot.
+Action 27: Travel to 'Marrowfen' (standard, 1 ticks, Toll 0).
+Action 28: Buy 1200 wheat for 4800 Enteloot.
+Action 29: Travel to 'Demacia' (standard, 4 ticks, Toll 0).
+Action 30: craft 1200x fish-n-chips (recipe).
+Action 31: Sell 1200 fish-n-chips for 48000 Enteloot.
+Action 32: Travel to 'Marrowfen' (standard, 4 ticks, Toll 0).
+Action 33: Travel to 'Noxus' (standard, 1 ticks, Toll 0).
+Action 34: Buy 6000 fish for 36000 Enteloot.
+Action 35: Travel to 'Marrowfen' (standard, 1 ticks, Toll 0).
+Action 36: Buy 3000 wheat for 12000 Enteloot.
+Action 37: Travel to 'Demacia' (standard, 4 ticks, Toll 0).
+Action 38: craft 3000x fish-n-chips (recipe).
+Action 39: Sell 3000 fish-n-chips for 120000 Enteloot.
+Action 40: Travel to 'Marrowfen' (standard, 4 ticks, Toll 0).
+Action 41: Travel to 'Noxus' (standard, 1 ticks, Toll 0).
+Action 42: Buy 14000 fish for 84000 Enteloot.
+Action 43: Travel to 'Marrowfen' (standard, 1 ticks, Toll 0).
+Action 44: Buy 7000 wheat for 28000 Enteloot.
+Action 45: Travel to 'Demacia' (standard, 4 ticks, Toll 0).
+Action 46: craft 7000x fish-n-chips (recipe).
+Action 47: Sell 7000 fish-n-chips for 280000 Enteloot.
+Action 48: Travel to 'Marrowfen' (standard, 4 ticks, Toll 0).
+Action 49: Travel to 'Noxus' (standard, 1 ticks, Toll 0).
+Action 50: Buy 32000 fish for 192000 Enteloot.
+Action 51: Travel to 'Marrowfen' (standard, 1 ticks, Toll 0).
+Action 52: Buy 16000 wheat for 64000 Enteloot.
+Action 53: Travel to 'Demacia' (standard, 4 ticks, Toll 0).
+Action 54: craft 16000x fish-n-chips (recipe).
+Action 55: Sell 16000 fish-n-chips for 640000 Enteloot.
+Action 56: Travel to 'Marrowfen' (standard, 4 ticks, Toll 0).
+Action 57: Travel to 'Thornwood' (fast, 1 ticks, Toll 50).
+Action 58: Travel to 'N1' (standard, 5 ticks, Toll 0).
+Action 59: gather 5 ore at 'N1' (3 ticks).
+Action 60: gather 5 ore at 'N1' (3 ticks).
+Action 61: gather 5 ore at 'N1' (3 ticks).
+Action 62: gather 5 ore at 'N1' (3 ticks).
+Action 63: gather 5 ore at 'N1' (3 ticks).
+Action 64: gather 5 ore at 'N1' (3 ticks).
+Action 65: gather 5 ore at 'N1' (3 ticks).
+Action 66: gather 5 ore at 'N1' (3 ticks).
+Action 67: gather 5 ore at 'N1' (3 ticks).
+Action 68: gather 5 ore at 'N1' (3 ticks).
+Action 69: gather 5 ore at 'N1' (3 ticks).
+Action 70: gather 5 ore at 'N1' (3 ticks).
+Action 71: gather 5 ore at 'N1' (3 ticks).
+Action 72: gather 5 ore at 'N1' (3 ticks).
+Action 73: gather 5 ore at 'N1' (3 ticks).
+Action 74: gather 5 ore at 'N1' (3 ticks).
+Action 75: gather 5 ore at 'N1' (3 ticks).
+Action 76: gather 5 ore at 'N1' (3 ticks).
+Action 77: gather 5 ore at 'N1' (3 ticks).
+Action 78: gather 5 ore at 'N1' (3 ticks).
+Action 79: gather 5 ore at 'N1' (3 ticks).
+Action 80: gather 5 ore at 'N1' (3 ticks).
+Action 81: gather 5 ore at 'N1' (3 ticks).
+Action 82: gather 5 ore at 'N1' (3 ticks).
+Action 83: gather 5 ore at 'N1' (3 ticks).
+Action 84: Travel to 'Thornwood' (standard, 5 ticks, Toll 0).
+Action 85: Travel to 'Marrowfen' (fast, 1 ticks, Toll 50).
+Action 86: Travel to 'Demacia' (standard, 4 ticks, Toll 0).
+Action 87: Travel to 'Marrowfen' (standard, 4 ticks, Toll 0).
+Action 88: Travel to 'Thornwood' (fast, 1 ticks, Toll 50).
+Action 89: Travel to 'Piltover' (standard, 2 ticks, Toll 0).
+Action 90: Buy 2042 wood for 10210 Enteloot.
+Action 91: Travel to 'Thornwood' (standard, 2 ticks, Toll 0).
+Action 92: Travel to 'Marrowfen' (fast, 1 ticks, Toll 50).
+Action 93: Buy 240 wheat for 960 Enteloot.
+Action 94: Travel to 'Ionia' (fast, 3 ticks, Toll 100).
+Action 95: Travel to 'Evermoor' (standard, 6 ticks, Toll 0).
+Action 96: Travel to 'N5' (standard, 1 ticks, Toll 0).
+Action 97: Travel to 'Zaun' (fast, 4 ticks, Toll 30).
+Action 98: Buy 784 sheep for 6272 Enteloot.
+Action 99: Travel to 'N5' (fast, 4 ticks, Toll 30).
+Action 100: Travel to 'N10' (fast, 2 ticks, Toll 100).
+Action 101: Travel to 'Borealis' (standard, 4 ticks, Toll 0).
+Action 102: Travel to 'Questral' (standard, 2 ticks, Toll 0).
+Action 103: Travel to 'Aurora' (standard, 1 ticks, Toll 0).
+Action 104: Buy 2850 clay for 17100 Enteloot.
+Action 105: Travel to 'N24' (standard, 2 ticks, Toll 0).
+Action 106: Travel to 'Thornwood' (fast, 2 ticks, Toll 75).
+Action 107: Travel to 'Marrowfen' (fast, 1 ticks, Toll 50).
+Action 108: Travel to 'Demacia' (standard, 4 ticks, Toll 0).
+Action 109: Buy 1770 stone for 8850 Enteloot.
+Action 110: craft 690x planks (component).
+Action 111: craft 120x thatch (component).
+Action 112: craft 870x mortar (component).
+Action 113: craft 870x bricks (component).
+Action 114: craft 300x stone-blocks (component).
+Action 115: craft 120x kiln-glass (component).
+Action 116: craft 392x rope (component).
+Action 117: craft 180x fencing (component).
+Action 118: craft 60x nets (component).
+Action 119: craft 62x iron-fittings (component).
+Action 120: craft 1x boots (tool).
+Action 121: Build 'farmhouse' in 'Demacia'.
+Action 122: Build 'fertilised-fields' in 'Demacia'.
+Action 123: Build 'rec-center' in 'Demacia'.
+Action 124: Build 'fire-station' in 'Demacia'.
+Action 125: Build 'school' in 'Demacia'.
+Action 126: Build 'library' in 'Demacia'.
+Action 127: Build 'police-station' in 'Demacia'.
+Action 128: Build 'pier' in 'Demacia'.
+Action 129: Build 'quarry' in 'Demacia'.
+Action 130: Build 'woodlands' in 'Demacia'.
+Action 131: Build 'pottery-house' in 'Demacia'.
+Action 132: Travel to 'Marrowfen' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 133: Travel to 'Noxus' (standard, 1 ticks, Toll 0).
+Action 134: Build 'farmhouse' in 'Noxus'.
+Action 135: Build 'fertilised-fields' in 'Noxus'.
+Action 136: Build 'rec-center' in 'Noxus'.
+Action 137: Build 'fire-station' in 'Noxus'.
+Action 138: Build 'school' in 'Noxus'.
+Action 139: Build 'library' in 'Noxus'.
+Action 140: Build 'police-station' in 'Noxus'.
+Action 141: Build 'pier' in 'Noxus'.
+Action 142: Build 'quarry' in 'Noxus'.
+Action 143: Build 'woodlands' in 'Noxus'.
+Action 144: Build 'pottery-house' in 'Noxus'.
+Action 145: Travel to 'Marrowfen' (standard, 1 ticks, Toll 0).
+Action 146: Travel to 'Thornwood' (fast, 1 ticks, Toll 50).
+Action 147: Travel to 'Piltover' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 148: Build 'farmhouse' in 'Piltover'.
+Action 149: Build 'fertilised-fields' in 'Piltover'.
+Action 150: Build 'rec-center' in 'Piltover'.
+Action 151: Build 'fire-station' in 'Piltover'.
+Action 152: Build 'school' in 'Piltover'.
+Action 153: Build 'library' in 'Piltover'.
+Action 154: Build 'police-station' in 'Piltover'.
+Action 155: Build 'pier' in 'Piltover'.
+Action 156: Build 'quarry' in 'Piltover'.
+Action 157: Build 'woodlands' in 'Piltover'.
+Action 158: Build 'pottery-house' in 'Piltover'.
+Action 159: Travel to 'Thornwood' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 160: Travel to 'Marrowfen' (fast, 1 ticks, Toll 50).
+Action 161: Travel to 'Ionia' (fast, 2 ticks, Toll 100, boots reduced ticks from 3 to 2).
+Action 162: Build 'farmhouse' in 'Ionia'.
+Action 163: Build 'fertilised-fields' in 'Ionia'.
+Action 164: Build 'rec-center' in 'Ionia'.
+Action 165: Build 'fire-station' in 'Ionia'.
+Action 166: Build 'school' in 'Ionia'.
+Action 167: Build 'library' in 'Ionia'.
+Action 168: Build 'police-station' in 'Ionia'.
+Action 169: Build 'pier' in 'Ionia'.
+Action 170: Build 'quarry' in 'Ionia'.
+Action 171: Build 'woodlands' in 'Ionia'.
+Action 172: Build 'pottery-house' in 'Ionia'.
+Action 173: Travel to 'Evermoor' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 174: Travel to 'N5' (standard, 1 ticks, Toll 0).
+Action 175: Travel to 'N10' (fast, 1 ticks, Toll 100, boots reduced ticks from 2 to 1).
+Action 176: Travel to 'N14' (standard, 2 ticks, Toll 0, boots reduced ticks from 3 to 2).
+Action 177: Travel to 'Freljord' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 178: Build 'farmhouse' in 'Freljord'.
+Action 179: Build 'fertilised-fields' in 'Freljord'.
+Action 180: Build 'rec-center' in 'Freljord'.
+Action 181: Build 'fire-station' in 'Freljord'.
+Action 182: Build 'school' in 'Freljord'.
+Action 183: Build 'library' in 'Freljord'.
+Action 184: Build 'police-station' in 'Freljord'.
+Action 185: Build 'pier' in 'Freljord'.
+Action 186: Build 'quarry' in 'Freljord'.
+Action 187: Build 'woodlands' in 'Freljord'.
+Action 188: Build 'pottery-house' in 'Freljord'.
+Action 189: Travel to 'N14' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 190: Travel to 'N10' (standard, 2 ticks, Toll 0, boots reduced ticks from 3 to 2).
+Action 191: Travel to 'N5' (fast, 1 ticks, Toll 100, boots reduced ticks from 2 to 1).
+Action 192: Travel to 'Zaun' (fast, 3 ticks, Toll 30, boots reduced ticks from 4 to 3).
+Action 193: Build 'farmhouse' in 'Zaun'.
+Action 194: Build 'fertilised-fields' in 'Zaun'.
+Action 195: Build 'rec-center' in 'Zaun'.
+Action 196: Build 'fire-station' in 'Zaun'.
+Action 197: Build 'school' in 'Zaun'.
+Action 198: Build 'library' in 'Zaun'.
+Action 199: Build 'police-station' in 'Zaun'.
+Action 200: Build 'pier' in 'Zaun'.
+Action 201: Build 'quarry' in 'Zaun'.
+Action 202: Build 'woodlands' in 'Zaun'.
+Action 203: Build 'pottery-house' in 'Zaun'.
+Action 204: Travel to 'N5' (fast, 3 ticks, Toll 30, boots reduced ticks from 4 to 3).
+Action 205: Travel to 'Yarrowdale' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 206: Travel to 'Shurima' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 207: Build 'farmhouse' in 'Shurima'.
+Action 208: Build 'fertilised-fields' in 'Shurima'.
+Action 209: Build 'rec-center' in 'Shurima'.
+Action 210: Build 'fire-station' in 'Shurima'.
+Action 211: Build 'school' in 'Shurima'.
+Action 212: Build 'library' in 'Shurima'.
+Action 213: Build 'police-station' in 'Shurima'.
+Action 214: Build 'pier' in 'Shurima'.
+Action 215: Build 'quarry' in 'Shurima'.
+Action 216: Build 'woodlands' in 'Shurima'.
+Action 217: Build 'pottery-house' in 'Shurima'.
+Action 218: Travel to 'Yarrowdale' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 219: Travel to 'N5' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 220: Travel to 'Valcrest' (standard, 1 ticks, Toll 0).
+Action 221: Travel to 'N3' (fast, 1 ticks, Toll 30, boots reduced ticks from 2 to 1).
+Action 222: Travel to 'N16' (fast, 3 ticks, Toll 30, boots reduced ticks from 4 to 3).
+Action 223: Travel to 'Bilgewater' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 224: Build 'farmhouse' in 'Bilgewater'.
+Action 225: Build 'fertilised-fields' in 'Bilgewater'.
+Action 226: Build 'rec-center' in 'Bilgewater'.
+Action 227: Build 'fire-station' in 'Bilgewater'.
+Action 228: Build 'school' in 'Bilgewater'.
+Action 229: Build 'library' in 'Bilgewater'.
+Action 230: Build 'police-station' in 'Bilgewater'.
+Action 231: Build 'pier' in 'Bilgewater'.
+Action 232: Build 'quarry' in 'Bilgewater'.
+Action 233: Build 'woodlands' in 'Bilgewater'.
+Action 234: Build 'pottery-house' in 'Bilgewater'.
+Action 235: Travel to 'Noxus' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 236: Travel to 'Marrowfen' (standard, 1 ticks, Toll 0).
+Action 237: Travel to 'Thornwood' (fast, 1 ticks, Toll 50).
+Action 238: Travel to 'Targon' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 239: Build 'farmhouse' in 'Targon'.
+Action 240: Build 'fertilised-fields' in 'Targon'.
+Action 241: Build 'rec-center' in 'Targon'.
+Action 242: Build 'fire-station' in 'Targon'.
+Action 243: Build 'school' in 'Targon'.
+Action 244: Build 'library' in 'Targon'.
+Action 245: Build 'police-station' in 'Targon'.
+Action 246: Build 'pier' in 'Targon'.
+Action 247: Build 'quarry' in 'Targon'.
+Action 248: Build 'woodlands' in 'Targon'.
+Action 249: Build 'pottery-house' in 'Targon'.
+Action 250: Travel to 'Thornwood' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 251: Travel to 'Ixtal' (fast, 1 ticks, Toll 75, boots reduced ticks from 2 to 1).
+Action 252: Build 'farmhouse' in 'Ixtal'.
+Action 253: Build 'fertilised-fields' in 'Ixtal'.
+Action 254: Build 'rec-center' in 'Ixtal'.
+Action 255: Build 'fire-station' in 'Ixtal'.
+Action 256: Build 'school' in 'Ixtal'.
+Action 257: Build 'library' in 'Ixtal'.
+Action 258: Build 'police-station' in 'Ixtal'.
+Action 259: Build 'pier' in 'Ixtal'.
+Action 260: Build 'quarry' in 'Ixtal'.
+Action 261: Build 'woodlands' in 'Ixtal'.
+Action 262: Build 'pottery-house' in 'Ixtal'.
+Action 263: Travel to 'Thornwood' (fast, 1 ticks, Toll 75, boots reduced ticks from 2 to 1).
+Action 264: Travel to 'Piltover' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 265: Travel to 'N2' (standard, 2 ticks, Toll 0, boots reduced ticks from 3 to 2).
+Action 266: Travel to 'Bandle' (standard, 2 ticks, Toll 0, boots reduced ticks from 3 to 2).
+Action 267: Build 'farmhouse' in 'Bandle'.
+Action 268: Build 'fertilised-fields' in 'Bandle'.
+Action 269: Build 'rec-center' in 'Bandle'.
+Action 270: Build 'fire-station' in 'Bandle'.
+Action 271: Build 'school' in 'Bandle'.
+Action 272: Build 'library' in 'Bandle'.
+Action 273: Build 'police-station' in 'Bandle'.
+Action 274: Build 'pier' in 'Bandle'.
+Action 275: Build 'quarry' in 'Bandle'.
+Action 276: Build 'woodlands' in 'Bandle'.
+Action 277: Build 'pottery-house' in 'Bandle'.
+Action 278: Travel to 'N2' (standard, 2 ticks, Toll 0, boots reduced ticks from 3 to 2).
+Action 279: Travel to 'Piltover' (standard, 2 ticks, Toll 0, boots reduced ticks from 3 to 2).
+Action 280: Travel to 'Thornwood' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 281: Travel to 'N24' (fast, 1 ticks, Toll 75, boots reduced ticks from 2 to 1).
+Action 282: Travel to 'Aurora' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 283: Build 'farmhouse' in 'Aurora'.
+Action 284: Build 'fertilised-fields' in 'Aurora'.
+Action 285: Build 'rec-center' in 'Aurora'.
+Action 286: Build 'fire-station' in 'Aurora'.
+Action 287: Build 'school' in 'Aurora'.
+Action 288: Build 'library' in 'Aurora'.
+Action 289: Build 'police-station' in 'Aurora'.
+Action 290: Build 'pier' in 'Aurora'.
+Action 291: Build 'quarry' in 'Aurora'.
+Action 292: Build 'woodlands' in 'Aurora'.
+Action 293: Build 'pottery-house' in 'Aurora'.
+Action 294: Travel to 'Questral' (standard, 1 ticks, Toll 0).
+Action 295: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 296: Build 'farmhouse' in 'Borealis'.
+Action 297: Build 'fertilised-fields' in 'Borealis'.
+Action 298: Build 'rec-center' in 'Borealis'.
+Action 299: Build 'fire-station' in 'Borealis'.
+Action 300: Build 'school' in 'Borealis'.
+Action 301: Build 'library' in 'Borealis'.
+Action 302: Build 'police-station' in 'Borealis'.
+Action 303: Build 'pier' in 'Borealis'.
+Action 304: Build 'quarry' in 'Borealis'.
+Action 305: Build 'woodlands' in 'Borealis'.
+Action 306: Build 'pottery-house' in 'Borealis'.
+Action 307: Travel to 'N10' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 308: Travel to 'N5' (fast, 1 ticks, Toll 100, boots reduced ticks from 2 to 1).
+Action 309: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 310: Build 'farmhouse' in 'Evermoor'.
+Action 311: Build 'fertilised-fields' in 'Evermoor'.
+Action 312: Build 'rec-center' in 'Evermoor'.
+Action 313: Build 'fire-station' in 'Evermoor'.
+Action 314: Build 'school' in 'Evermoor'.
+Action 315: Build 'library' in 'Evermoor'.
+Action 316: Build 'police-station' in 'Evermoor'.
+Action 317: Build 'pier' in 'Evermoor'.
+Action 318: Build 'quarry' in 'Evermoor'.
+Action 319: Build 'woodlands' in 'Evermoor'.
+Action 320: Build 'pottery-house' in 'Evermoor'.
+Action 321: Travel to 'N5' (standard, 1 ticks, Toll 0).
+Action 322: Travel to 'N10' (fast, 1 ticks, Toll 100, boots reduced ticks from 2 to 1).
+Action 323: Travel to 'N14' (standard, 2 ticks, Toll 0, boots reduced ticks from 3 to 2).
+Action 324: Travel to 'Highgarden' (fast, 3 ticks, Toll 75, boots reduced ticks from 4 to 3).
+Action 325: Build 'farmhouse' in 'Highgarden'.
+Action 326: Build 'fertilised-fields' in 'Highgarden'.
+Action 327: Build 'rec-center' in 'Highgarden'.
+Action 328: Build 'fire-station' in 'Highgarden'.
+Action 329: Build 'school' in 'Highgarden'.
+Action 330: Build 'library' in 'Highgarden'.
+Action 331: Build 'police-station' in 'Highgarden'.
+Action 332: Build 'pier' in 'Highgarden'.
+Action 333: Build 'quarry' in 'Highgarden'.
+Action 334: Build 'woodlands' in 'Highgarden'.
+Action 335: Build 'pottery-house' in 'Highgarden'.
+Action 336: Travel to 'Windmere' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 337: Travel to 'Thornwood' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 338: Travel to 'Marrowfen' (fast, 1 ticks, Toll 50).
+Action 339: Travel to 'Ironhold' (standard, 2 ticks, Toll 0, boots reduced ticks from 3 to 2).
+Action 340: Build 'farmhouse' in 'Ironhold'.
+Action 341: Build 'fertilised-fields' in 'Ironhold'.
+Action 342: Build 'rec-center' in 'Ironhold'.
+Action 343: Build 'fire-station' in 'Ironhold'.
+Action 344: Build 'school' in 'Ironhold'.
+Action 345: Build 'library' in 'Ironhold'.
+Action 346: Build 'police-station' in 'Ironhold'.
+Action 347: Build 'pier' in 'Ironhold'.
+Action 348: Build 'quarry' in 'Ironhold'.
+Action 349: Build 'woodlands' in 'Ironhold'.
+Action 350: Build 'pottery-house' in 'Ironhold'.
+Action 351: Travel to 'N24' (standard, 2 ticks, Toll 0, boots reduced ticks from 3 to 2).
+Action 352: Travel to 'Aurora' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 353: Travel to 'Questral' (standard, 1 ticks, Toll 0).
+Action 354: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 355: Travel to 'N10' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 356: Travel to 'Karthus' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 357: Build 'farmhouse' in 'Karthus'.
+Action 358: Build 'fertilised-fields' in 'Karthus'.
+Action 359: Build 'rec-center' in 'Karthus'.
+Action 360: Build 'fire-station' in 'Karthus'.
+Action 361: Build 'school' in 'Karthus'.
+Action 362: Build 'library' in 'Karthus'.
+Action 363: Build 'police-station' in 'Karthus'.
+Action 364: Build 'pier' in 'Karthus'.
+Action 365: Build 'quarry' in 'Karthus'.
+Action 366: Build 'woodlands' in 'Karthus'.
+Action 367: Build 'pottery-house' in 'Karthus'.
+Action 368: Travel to 'N10' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 369: Travel to 'N5' (fast, 1 ticks, Toll 100, boots reduced ticks from 2 to 1).
+Action 370: Travel to 'Valcrest' (standard, 1 ticks, Toll 0).
+Action 371: Travel to 'N3' (fast, 1 ticks, Toll 30, boots reduced ticks from 2 to 1).
+Action 372: Travel to 'Umberford' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 373: Travel to 'Lumenvale' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 374: Build 'farmhouse' in 'Lumenvale'.
+Action 375: Build 'fertilised-fields' in 'Lumenvale'.
+Action 376: Build 'rec-center' in 'Lumenvale'.
+Action 377: Build 'fire-station' in 'Lumenvale'.
+Action 378: Build 'school' in 'Lumenvale'.
+Action 379: Build 'library' in 'Lumenvale'.
+Action 380: Build 'police-station' in 'Lumenvale'.
+Action 381: Build 'pier' in 'Lumenvale'.
+Action 382: Build 'quarry' in 'Lumenvale'.
+Action 383: Build 'woodlands' in 'Lumenvale'.
+Action 384: Build 'pottery-house' in 'Lumenvale'.
+Action 385: Travel to 'Umberford' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 386: Travel to 'N3' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 387: Travel to 'N16' (fast, 3 ticks, Toll 30, boots reduced ticks from 4 to 3).
+Action 388: Travel to 'Bilgewater' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 389: Travel to 'Noxus' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 390: Travel to 'Marrowfen' (standard, 1 ticks, Toll 0).
+Action 391: Build 'farmhouse' in 'Marrowfen'.
+Action 392: Build 'fertilised-fields' in 'Marrowfen'.
+Action 393: Build 'rec-center' in 'Marrowfen'.
+Action 394: Build 'fire-station' in 'Marrowfen'.
+Action 395: Build 'school' in 'Marrowfen'.
+Action 396: Build 'library' in 'Marrowfen'.
+Action 397: Build 'police-station' in 'Marrowfen'.
+Action 398: Build 'pier' in 'Marrowfen'.
+Action 399: Build 'quarry' in 'Marrowfen'.
+Action 400: Build 'woodlands' in 'Marrowfen'.
+Action 401: Build 'pottery-house' in 'Marrowfen'.
+Action 402: Travel to 'Northwind' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 403: Build 'farmhouse' in 'Northwind'.
+Action 404: Build 'fertilised-fields' in 'Northwind'.
+Action 405: Build 'rec-center' in 'Northwind'.
+Action 406: Build 'fire-station' in 'Northwind'.
+Action 407: Build 'school' in 'Northwind'.
+Action 408: Build 'library' in 'Northwind'.
+Action 409: Build 'police-station' in 'Northwind'.
+Action 410: Build 'pier' in 'Northwind'.
+Action 411: Build 'quarry' in 'Northwind'.
+Action 412: Build 'woodlands' in 'Northwind'.
+Action 413: Build 'pottery-house' in 'Northwind'.
+Action 414: Travel to 'Marrowfen' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 415: Travel to 'Thornwood' (fast, 1 ticks, Toll 50).
+Action 416: Travel to 'Windmere' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 417: Travel to 'Ravensford' (standard, 2 ticks, Toll 0, boots reduced ticks from 3 to 2).
+Action 418: Travel to 'Oakhaven' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 419: Build 'farmhouse' in 'Oakhaven'.
+Action 420: Build 'fertilised-fields' in 'Oakhaven'.
+Action 421: Build 'rec-center' in 'Oakhaven'.
+Action 422: Build 'fire-station' in 'Oakhaven'.
+Action 423: Build 'school' in 'Oakhaven'.
+Action 424: Build 'library' in 'Oakhaven'.
+Action 425: Build 'police-station' in 'Oakhaven'.
+Action 426: Build 'pier' in 'Oakhaven'.
+Action 427: Build 'quarry' in 'Oakhaven'.
+Action 428: Build 'woodlands' in 'Oakhaven'.
+Action 429: Build 'pottery-house' in 'Oakhaven'.
+Action 430: Travel to 'Ravensford' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 431: Travel to 'Windmere' (standard, 2 ticks, Toll 0, boots reduced ticks from 3 to 2).
+Action 432: Travel to 'N7' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 433: Travel to 'Bandle' (standard, 2 ticks, Toll 0, boots reduced ticks from 3 to 2).
+Action 434: Travel to 'Pinecliff' (fast, 4 ticks, Toll 100, boots reduced ticks from 5 to 4).
+Action 435: Build 'farmhouse' in 'Pinecliff'.
+Action 436: Build 'fertilised-fields' in 'Pinecliff'.
+Action 437: Build 'rec-center' in 'Pinecliff'.
+Action 438: Build 'fire-station' in 'Pinecliff'.
+Action 439: Build 'school' in 'Pinecliff'.
+Action 440: Build 'library' in 'Pinecliff'.
+Action 441: Build 'police-station' in 'Pinecliff'.
+Action 442: Build 'pier' in 'Pinecliff'.
+Action 443: Build 'quarry' in 'Pinecliff'.
+Action 444: Build 'woodlands' in 'Pinecliff'.
+Action 445: Build 'pottery-house' in 'Pinecliff'.
+Action 446: Travel to 'Bandle' (fast, 4 ticks, Toll 100, boots reduced ticks from 5 to 4).
+Action 447: Travel to 'N2' (standard, 2 ticks, Toll 0, boots reduced ticks from 3 to 2).
+Action 448: Travel to 'Piltover' (standard, 2 ticks, Toll 0, boots reduced ticks from 3 to 2).
+Action 449: Travel to 'Thornwood' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 450: Travel to 'Ixtal' (fast, 1 ticks, Toll 75, boots reduced ticks from 2 to 1).
+Action 451: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 452: Build 'farmhouse' in 'Questral'.
+Action 453: Build 'fertilised-fields' in 'Questral'.
+Action 454: Build 'rec-center' in 'Questral'.
+Action 455: Build 'fire-station' in 'Questral'.
+Action 456: Build 'school' in 'Questral'.
+Action 457: Build 'library' in 'Questral'.
+Action 458: Build 'police-station' in 'Questral'.
+Action 459: Build 'pier' in 'Questral'.
+Action 460: Build 'quarry' in 'Questral'.
+Action 461: Build 'woodlands' in 'Questral'.
+Action 462: Build 'pottery-house' in 'Questral'.
+Action 463: Travel to 'Borealis' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 464: Travel to 'Stormgate' (fast, 2 ticks, Toll 30, boots reduced ticks from 3 to 2).
+Action 465: Travel to 'Ravensford' (fast, 3 ticks, Toll 50, boots reduced ticks from 4 to 3).
+Action 466: Build 'farmhouse' in 'Ravensford'.
+Action 467: Build 'fertilised-fields' in 'Ravensford'.
+Action 468: Build 'rec-center' in 'Ravensford'.
+Action 469: Build 'fire-station' in 'Ravensford'.
+Action 470: Build 'school' in 'Ravensford'.
+Action 471: Build 'library' in 'Ravensford'.
+Action 472: Build 'police-station' in 'Ravensford'.
+Action 473: Build 'pier' in 'Ravensford'.
+Action 474: Build 'quarry' in 'Ravensford'.
+Action 475: Build 'woodlands' in 'Ravensford'.
+Action 476: Build 'pottery-house' in 'Ravensford'.
+Action 477: Travel to 'Stormgate' (fast, 3 ticks, Toll 50, boots reduced ticks from 4 to 3).
+Action 478: Build 'farmhouse' in 'Stormgate'.
+Action 479: Build 'fertilised-fields' in 'Stormgate'.
+Action 480: Build 'rec-center' in 'Stormgate'.
+Action 481: Build 'fire-station' in 'Stormgate'.
+Action 482: Build 'school' in 'Stormgate'.
+Action 483: Build 'library' in 'Stormgate'.
+Action 484: Build 'police-station' in 'Stormgate'.
+Action 485: Build 'pier' in 'Stormgate'.
+Action 486: Build 'quarry' in 'Stormgate'.
+Action 487: Build 'woodlands' in 'Stormgate'.
+Action 488: Build 'pottery-house' in 'Stormgate'.
+Action 489: Travel to 'Borealis' (fast, 2 ticks, Toll 30, boots reduced ticks from 3 to 2).
+Action 490: Travel to 'Questral' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 491: Travel to 'Ixtal' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 492: Travel to 'Thornwood' (fast, 1 ticks, Toll 75, boots reduced ticks from 2 to 1).
+Action 493: Build 'farmhouse' in 'Thornwood'.
+Action 494: Build 'fertilised-fields' in 'Thornwood'.
+Action 495: Build 'rec-center' in 'Thornwood'.
+Action 496: Build 'fire-station' in 'Thornwood'.
+Action 497: Build 'school' in 'Thornwood'.
+Action 498: Build 'library' in 'Thornwood'.
+Action 499: Build 'police-station' in 'Thornwood'.
+Action 500: Build 'pier' in 'Thornwood'.
+Action 501: Build 'quarry' in 'Thornwood'.
+Action 502: Build 'woodlands' in 'Thornwood'.
+Action 503: Build 'pottery-house' in 'Thornwood'.
+Action 504: Travel to 'Marrowfen' (fast, 1 ticks, Toll 50).
+Action 505: Travel to 'Noxus' (standard, 1 ticks, Toll 0).
+Action 506: Travel to 'Bilgewater' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 507: Travel to 'N16' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 508: Travel to 'N3' (fast, 3 ticks, Toll 30, boots reduced ticks from 4 to 3).
+Action 509: Travel to 'Umberford' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 510: Build 'farmhouse' in 'Umberford'.
+Action 511: Build 'fertilised-fields' in 'Umberford'.
+Action 512: Build 'rec-center' in 'Umberford'.
+Action 513: Build 'fire-station' in 'Umberford'.
+Action 514: Build 'school' in 'Umberford'.
+Action 515: Build 'library' in 'Umberford'.
+Action 516: Build 'police-station' in 'Umberford'.
+Action 517: Build 'pier' in 'Umberford'.
+Action 518: Build 'quarry' in 'Umberford'.
+Action 519: Build 'woodlands' in 'Umberford'.
+Action 520: Build 'pottery-house' in 'Umberford'.
+Action 521: Travel to 'N3' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 522: Travel to 'Valcrest' (fast, 1 ticks, Toll 30, boots reduced ticks from 2 to 1).
+Action 523: Build 'farmhouse' in 'Valcrest'.
+Action 524: Build 'fertilised-fields' in 'Valcrest'.
+Action 525: Build 'rec-center' in 'Valcrest'.
+Action 526: Build 'fire-station' in 'Valcrest'.
+Action 527: Build 'school' in 'Valcrest'.
+Action 528: Build 'library' in 'Valcrest'.
+Action 529: Build 'police-station' in 'Valcrest'.
+Action 530: Build 'pier' in 'Valcrest'.
+Action 531: Build 'quarry' in 'Valcrest'.
+Action 532: Build 'woodlands' in 'Valcrest'.
+Action 533: Build 'pottery-house' in 'Valcrest'.
+Action 534: Travel to 'N5' (standard, 1 ticks, Toll 0).
+Action 535: Travel to 'Ravensford' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 536: Travel to 'Windmere' (standard, 2 ticks, Toll 0, boots reduced ticks from 3 to 2).
+Action 537: Build 'farmhouse' in 'Windmere'.
+Action 538: Build 'fertilised-fields' in 'Windmere'.
+Action 539: Build 'rec-center' in 'Windmere'.
+Action 540: Build 'fire-station' in 'Windmere'.
+Action 541: Build 'school' in 'Windmere'.
+Action 542: Build 'library' in 'Windmere'.
+Action 543: Build 'police-station' in 'Windmere'.
+Action 544: Build 'pier' in 'Windmere'.
+Action 545: Build 'quarry' in 'Windmere'.
+Action 546: Build 'woodlands' in 'Windmere'.
+Action 547: Build 'pottery-house' in 'Windmere'.
+Action 548: Travel to 'Ravensford' (standard, 2 ticks, Toll 0, boots reduced ticks from 3 to 2).
+Action 549: Travel to 'N5' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 550: Travel to 'Yarrowdale' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 551: Build 'farmhouse' in 'Yarrowdale'.
+Action 552: Build 'fertilised-fields' in 'Yarrowdale'.
+Action 553: Build 'rec-center' in 'Yarrowdale'.
+Action 554: Build 'fire-station' in 'Yarrowdale'.
+Action 555: Build 'school' in 'Yarrowdale'.
+Action 556: Build 'library' in 'Yarrowdale'.
+Action 557: Build 'police-station' in 'Yarrowdale'.
+Action 558: Build 'pier' in 'Yarrowdale'.
+Action 559: Build 'quarry' in 'Yarrowdale'.
+Action 560: Build 'woodlands' in 'Yarrowdale'.
+Action 561: Build 'pottery-house' in 'Yarrowdale'.
+Action 562: Travel to 'N5' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 563: Travel to 'N2' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 564: Travel to 'Bandle' (standard, 2 ticks, Toll 0, boots reduced ticks from 3 to 2).
+Action 565: Travel to 'N7' (standard, 2 ticks, Toll 0, boots reduced ticks from 3 to 2).
+Action 566: Travel to 'N26' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 567: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 568: Travel to 'Marrowfen' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 569: Travel to 'Noxus' (standard, 1 ticks, Toll 0).
+Action 570: Buy 12000 fish for 72000 Enteloot.
+Action 571: Travel to 'Marrowfen' (standard, 1 ticks, Toll 0).
+Action 572: Buy 6000 wheat for 24000 Enteloot.
+Action 573: Travel to 'Demacia' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 574: craft 6000x fish-n-chips (recipe).
+Action 575: Sell 6000 fish-n-chips for 240000 Enteloot.
+Action 576: Travel to 'Marrowfen' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 577: Travel to 'Noxus' (standard, 1 ticks, Toll 0).
+Action 578: Buy 30000 fish for 180000 Enteloot.
+Action 579: Travel to 'Marrowfen' (standard, 1 ticks, Toll 0).
+Action 580: Buy 15000 wheat for 60000 Enteloot.
+Action 581: Travel to 'Demacia' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 582: craft 15000x fish-n-chips (recipe).
+Action 583: Sell 15000 fish-n-chips for 600000 Enteloot.
+Action 584: Travel to 'Marrowfen' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 585: Travel to 'Noxus' (standard, 1 ticks, Toll 0).
+Action 586: Buy 91220 fish for 547320 Enteloot.
+Action 587: Travel to 'Marrowfen' (standard, 1 ticks, Toll 0).
+Action 588: Buy 45610 wheat for 182440 Enteloot.
+Action 589: Travel to 'Demacia' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 590: craft 45610x fish-n-chips (recipe).
+Action 591: Sell 45610 fish-n-chips for 1824400 Enteloot.
+===================================
+Level 4 Scoring
+===================================
+Your Enteloot: 1970015
+Held items value: 4668809
+Total sale revenue: 3784400
+===================================
+Final score: 14055424.0
