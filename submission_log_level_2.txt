@@ -1,0 +1,339 @@
+Action 0: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 1: Travel to 'Ixtal' (standard, 1 ticks, Toll 0).
+Action 2: Buy 60 fish for 360 Enteloot.
+Action 3: Buy 30 wheat for 120 Enteloot.
+Action 4: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 5: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 6: craft 30x fish-n-chips (recipe).
+Action 7: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 8: Travel to 'Ixtal' (standard, 1 ticks, Toll 0).
+Action 9: Sell 30 fish-n-chips for 1470 Enteloot.
+Action 10: Buy 186 fish for 1116 Enteloot.
+Action 11: Buy 93 wheat for 372 Enteloot.
+Action 12: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 13: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 14: craft 93x fish-n-chips (recipe).
+Action 15: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 16: Travel to 'Ixtal' (standard, 1 ticks, Toll 0).
+Action 17: Sell 93 fish-n-chips for 4557 Enteloot.
+Action 18: Buy 568 fish for 3408 Enteloot.
+Action 19: Buy 284 wheat for 1136 Enteloot.
+Action 20: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 21: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 22: craft 284x fish-n-chips (recipe).
+Action 23: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 24: Travel to 'Ixtal' (standard, 1 ticks, Toll 0).
+Action 25: Sell 284 fish-n-chips for 13916 Enteloot.
+Action 26: Buy 1740 fish for 10440 Enteloot.
+Action 27: Buy 870 wheat for 3480 Enteloot.
+Action 28: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 29: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 30: craft 870x fish-n-chips (recipe).
+Action 31: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 32: Travel to 'Ixtal' (standard, 1 ticks, Toll 0).
+Action 33: Sell 870 fish-n-chips for 42630 Enteloot.
+Action 34: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 35: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 36: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 37: Travel to 'N11' (standard, 4 ticks, Toll 0).
+Action 38: gather 6 wood at 'N11' (2 ticks).
+Action 39: gather 6 wood at 'N11' (2 ticks).
+Action 40: gather 6 wood at 'N11' (2 ticks).
+Action 41: gather 6 wood at 'N11' (2 ticks).
+Action 42: gather 6 wood at 'N11' (2 ticks).
+Action 43: gather 6 wood at 'N11' (2 ticks).
+Action 44: gather 6 wood at 'N11' (2 ticks).
+Action 45: gather 6 wood at 'N11' (2 ticks).
+Action 46: gather 6 wood at 'N11' (2 ticks).
+Action 47: gather 6 wood at 'N11' (2 ticks).
+Action 48: gather 6 wood at 'N11' (2 ticks).
+Action 49: gather 6 wood at 'N11' (2 ticks).
+Action 50: gather 6 wood at 'N11' (2 ticks).
+Action 51: gather 6 wood at 'N11' (2 ticks).
+Action 52: gather 6 wood at 'N11' (2 ticks).
+Action 53: gather 6 wood at 'N11' (2 ticks).
+Action 54: gather 6 wood at 'N11' (2 ticks).
+Action 55: gather 6 wood at 'N11' (2 ticks).
+Action 56: gather 6 wood at 'N11' (2 ticks).
+Action 57: gather 6 wood at 'N11' (2 ticks).
+Action 58: gather 6 wood at 'N11' (2 ticks).
+Action 59: gather 6 wood at 'N11' (2 ticks).
+Action 60: gather 6 wood at 'N11' (2 ticks).
+Action 61: gather 6 wood at 'N11' (2 ticks).
+Action 62: gather 6 wood at 'N11' (2 ticks).
+Action 63: gather 6 wood at 'N11' (2 ticks).
+Action 64: gather 6 wood at 'N11' (2 ticks).
+Action 65: gather 6 wood at 'N11' (2 ticks).
+Action 66: gather 6 wood at 'N11' (2 ticks).
+Action 67: gather 6 wood at 'N11' (2 ticks).
+Action 68: gather 6 wood at 'N11' (2 ticks).
+Action 69: gather 6 wood at 'N11' (2 ticks).
+Action 70: gather 6 wood at 'N11' (2 ticks).
+Action 71: gather 6 wood at 'N11' (2 ticks).
+Action 72: gather 6 wood at 'N11' (2 ticks).
+Action 73: gather 6 wood at 'N11' (2 ticks).
+Action 74: gather 6 wood at 'N11' (2 ticks).
+Action 75: gather 6 wood at 'N11' (2 ticks).
+Action 76: gather 6 wood at 'N11' (2 ticks).
+Action 77: gather 6 wood at 'N11' (2 ticks).
+Action 78: gather 6 wood at 'N11' (2 ticks).
+Action 79: gather 6 wood at 'N11' (2 ticks).
+Action 80: gather 6 wood at 'N11' (2 ticks).
+Action 81: gather 6 wood at 'N11' (2 ticks).
+Action 82: gather 6 wood at 'N11' (2 ticks).
+Action 83: gather 6 wood at 'N11' (2 ticks).
+Action 84: gather 6 wood at 'N11' (2 ticks).
+Action 85: gather 6 wood at 'N11' (2 ticks).
+Action 86: gather 6 wood at 'N11' (2 ticks).
+Action 87: gather 6 wood at 'N11' (2 ticks).
+Action 88: gather 6 wood at 'N11' (2 ticks).
+Action 89: gather 6 wood at 'N11' (2 ticks).
+Action 90: gather 6 wood at 'N11' (2 ticks).
+Action 91: gather 6 wood at 'N11' (2 ticks).
+Action 92: gather 6 wood at 'N11' (2 ticks).
+Action 93: gather 6 wood at 'N11' (2 ticks).
+Action 94: gather 6 wood at 'N11' (2 ticks).
+Action 95: gather 6 wood at 'N11' (2 ticks).
+Action 96: gather 6 wood at 'N11' (2 ticks).
+Action 97: gather 6 wood at 'N11' (2 ticks).
+Action 98: gather 6 wood at 'N11' (2 ticks).
+Action 99: gather 6 wood at 'N11' (2 ticks).
+Action 100: gather 6 wood at 'N11' (2 ticks).
+Action 101: gather 6 wood at 'N11' (2 ticks).
+Action 102: gather 6 wood at 'N11' (2 ticks).
+Action 103: gather 6 wood at 'N11' (2 ticks).
+Action 104: gather 6 wood at 'N11' (2 ticks).
+Action 105: gather 6 wood at 'N11' (2 ticks).
+Action 106: gather 6 wood at 'N11' (2 ticks).
+Action 107: gather 6 wood at 'N11' (2 ticks).
+Action 108: gather 6 wood at 'N11' (2 ticks).
+Action 109: gather 6 wood at 'N11' (2 ticks).
+Action 110: gather 6 wood at 'N11' (2 ticks).
+Action 111: gather 6 wood at 'N11' (2 ticks).
+Action 112: gather 6 wood at 'N11' (2 ticks).
+Action 113: gather 6 wood at 'N11' (2 ticks).
+Action 114: gather 6 wood at 'N11' (2 ticks).
+Action 115: gather 6 wood at 'N11' (2 ticks).
+Action 116: gather 6 wood at 'N11' (2 ticks).
+Action 117: gather 6 wood at 'N11' (2 ticks).
+Action 118: gather 6 wood at 'N11' (2 ticks).
+Action 119: gather 6 wood at 'N11' (2 ticks).
+Action 120: gather 6 wood at 'N11' (2 ticks).
+Action 121: gather 6 wood at 'N11' (2 ticks).
+Action 122: gather 6 wood at 'N11' (2 ticks).
+Action 123: gather 6 wood at 'N11' (2 ticks).
+Action 124: gather 6 wood at 'N11' (2 ticks).
+Action 125: gather 6 wood at 'N11' (2 ticks).
+Action 126: gather 6 wood at 'N11' (2 ticks).
+Action 127: gather 6 wood at 'N11' (2 ticks).
+Action 128: gather 6 wood at 'N11' (2 ticks).
+Action 129: gather 6 wood at 'N11' (2 ticks).
+Action 130: gather 6 wood at 'N11' (2 ticks).
+Action 131: gather 6 wood at 'N11' (2 ticks).
+Action 132: gather 6 wood at 'N11' (2 ticks).
+Action 133: gather 6 wood at 'N11' (2 ticks).
+Action 134: gather 6 wood at 'N11' (2 ticks).
+Action 135: gather 6 wood at 'N11' (2 ticks).
+Action 136: gather 6 wood at 'N11' (2 ticks).
+Action 137: gather 6 wood at 'N11' (2 ticks).
+Action 138: gather 6 wood at 'N11' (2 ticks).
+Action 139: gather 6 wood at 'N11' (2 ticks).
+Action 140: gather 6 wood at 'N11' (2 ticks).
+Action 141: gather 6 wood at 'N11' (2 ticks).
+Action 142: gather 6 wood at 'N11' (2 ticks).
+Action 143: gather 6 wood at 'N11' (2 ticks).
+Action 144: gather 6 wood at 'N11' (2 ticks).
+Action 145: gather 6 wood at 'N11' (2 ticks).
+Action 146: gather 6 wood at 'N11' (2 ticks).
+Action 147: gather 6 wood at 'N11' (2 ticks).
+Action 148: Travel to 'Noxus' (standard, 5 ticks, Toll 0).
+Action 149: Buy 260 sheep for 2080 Enteloot.
+Action 150: Buy 770 clay for 4620 Enteloot.
+Action 151: Travel to 'N11' (standard, 5 ticks, Toll 0).
+Action 152: Travel to 'Bilgewater' (standard, 4 ticks, Toll 0).
+Action 153: Travel to 'N2' (standard, 6 ticks, Toll 0).
+Action 154: Travel to 'Shurima' (standard, 2 ticks, Toll 0).
+Action 155: Buy 410 stone for 2050 Enteloot.
+Action 156: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 157: craft 92x planks (component).
+Action 158: craft 16x thatch (component).
+Action 159: craft 92x mortar (component).
+Action 160: craft 92x bricks (component).
+Action 161: craft 24x stone-blocks (component).
+Action 162: craft 16x kiln-glass (component).
+Action 163: craft 52x rope (component).
+Action 164: craft 24x fencing (component).
+Action 165: craft 8x nets (component).
+Action 166: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 167: Travel to 'Ixtal' (standard, 1 ticks, Toll 0).
+Action 168: Build 'farmhouse' in 'Ixtal'.
+Action 169: Build 'fertilised-fields' in 'Ixtal'.
+Action 170: Build 'pier' in 'Ixtal'.
+Action 171: Build 'quarry' in 'Ixtal'.
+Action 172: Build 'woodlands' in 'Ixtal'.
+Action 173: Build 'pottery-house' in 'Ixtal'.
+Action 174: Build 'rec-center' in 'Ixtal'.
+Action 175: Build 'fire-station' in 'Ixtal'.
+Action 176: Build 'school' in 'Ixtal'.
+Action 177: Build 'library' in 'Ixtal'.
+Action 178: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 179: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 180: Travel to 'Bilgewater' (standard, 6 ticks, Toll 0).
+Action 181: Travel to 'N11' (standard, 4 ticks, Toll 0).
+Action 182: Travel to 'Noxus' (standard, 5 ticks, Toll 0).
+Action 183: Build 'farmhouse' in 'Noxus'.
+Action 184: Build 'fertilised-fields' in 'Noxus'.
+Action 185: Build 'pier' in 'Noxus'.
+Action 186: Build 'quarry' in 'Noxus'.
+Action 187: Build 'woodlands' in 'Noxus'.
+Action 188: Build 'pottery-house' in 'Noxus'.
+Action 189: Build 'rec-center' in 'Noxus'.
+Action 190: Build 'fire-station' in 'Noxus'.
+Action 191: Build 'school' in 'Noxus'.
+Action 192: Build 'library' in 'Noxus'.
+Action 193: Travel to 'N11' (standard, 5 ticks, Toll 0).
+Action 194: Travel to 'Bilgewater' (standard, 4 ticks, Toll 0).
+Action 195: Build 'farmhouse' in 'Bilgewater'.
+Action 196: Build 'fertilised-fields' in 'Bilgewater'.
+Action 197: Build 'pier' in 'Bilgewater'.
+Action 198: Build 'quarry' in 'Bilgewater'.
+Action 199: Build 'woodlands' in 'Bilgewater'.
+Action 200: Build 'pottery-house' in 'Bilgewater'.
+Action 201: Build 'rec-center' in 'Bilgewater'.
+Action 202: Build 'fire-station' in 'Bilgewater'.
+Action 203: Build 'school' in 'Bilgewater'.
+Action 204: Build 'library' in 'Bilgewater'.
+Action 205: Travel to 'N2' (standard, 6 ticks, Toll 0).
+Action 206: Travel to 'Shurima' (standard, 2 ticks, Toll 0).
+Action 207: Travel to 'Freljord' (standard, 4 ticks, Toll 0).
+Action 208: Build 'farmhouse' in 'Freljord'.
+Action 209: Build 'fertilised-fields' in 'Freljord'.
+Action 210: Build 'pier' in 'Freljord'.
+Action 211: Build 'quarry' in 'Freljord'.
+Action 212: Build 'woodlands' in 'Freljord'.
+Action 213: Build 'pottery-house' in 'Freljord'.
+Action 214: Build 'rec-center' in 'Freljord'.
+Action 215: Build 'fire-station' in 'Freljord'.
+Action 216: Build 'school' in 'Freljord'.
+Action 217: Build 'library' in 'Freljord'.
+Action 218: Travel to 'Shurima' (standard, 4 ticks, Toll 0).
+Action 219: Travel to 'Ixtal' (standard, 1 ticks, Toll 0).
+Action 220: Buy 160 fish for 960 Enteloot.
+Action 221: Buy 80 wheat for 320 Enteloot.
+Action 222: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 223: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 224: craft 80x fish-n-chips (recipe).
+Action 225: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 226: Travel to 'Ixtal' (standard, 1 ticks, Toll 0).
+Action 227: Sell 80 fish-n-chips for 3920 Enteloot.
+Action 228: Buy 500 fish for 3000 Enteloot.
+Action 229: Buy 250 wheat for 1000 Enteloot.
+Action 230: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 231: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 232: craft 250x fish-n-chips (recipe).
+Action 233: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 234: Travel to 'Ixtal' (standard, 1 ticks, Toll 0).
+Action 235: Sell 250 fish-n-chips for 12250 Enteloot.
+Action 236: Buy 1520 fish for 9120 Enteloot.
+Action 237: Buy 760 wheat for 3040 Enteloot.
+Action 238: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 239: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 240: craft 760x fish-n-chips (recipe).
+Action 241: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 242: Travel to 'Ixtal' (standard, 1 ticks, Toll 0).
+Action 243: Sell 760 fish-n-chips for 37240 Enteloot.
+Action 244: Buy 1714 fish for 10284 Enteloot.
+Action 245: Buy 857 wheat for 3428 Enteloot.
+Action 246: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 247: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 248: craft 857x fish-n-chips (recipe).
+Action 249: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 250: Travel to 'Ixtal' (standard, 1 ticks, Toll 0).
+Action 251: Sell 857 fish-n-chips for 41993 Enteloot.
+Action 252: craft 138x planks (component).
+Action 253: craft 24x thatch (component).
+Action 254: craft 138x mortar (component).
+Action 255: craft 138x bricks (component).
+Action 256: craft 36x stone-blocks (component).
+Action 257: craft 24x kiln-glass (component).
+Action 258: craft 78x rope (component).
+Action 259: craft 36x fencing (component).
+Action 260: craft 12x nets (component).
+Action 261: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 262: Build 'farmhouse' in 'Shurima'.
+Action 263: Build 'fertilised-fields' in 'Shurima'.
+Action 264: Build 'pier' in 'Shurima'.
+Action 265: Build 'quarry' in 'Shurima'.
+Action 266: Build 'woodlands' in 'Shurima'.
+Action 267: Build 'pottery-house' in 'Shurima'.
+Action 268: Build 'rec-center' in 'Shurima'.
+Action 269: Build 'fire-station' in 'Shurima'.
+Action 270: Build 'school' in 'Shurima'.
+Action 271: Build 'library' in 'Shurima'.
+Action 272: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 273: Build 'farmhouse' in 'Demacia'.
+Action 274: Build 'fertilised-fields' in 'Demacia'.
+Action 275: Build 'pier' in 'Demacia'.
+Action 276: Build 'quarry' in 'Demacia'.
+Action 277: Build 'woodlands' in 'Demacia'.
+Action 278: Build 'pottery-house' in 'Demacia'.
+Action 279: Build 'rec-center' in 'Demacia'.
+Action 280: Build 'fire-station' in 'Demacia'.
+Action 281: Build 'school' in 'Demacia'.
+Action 282: Build 'library' in 'Demacia'.
+Action 283: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 284: Travel to 'N14' (standard, 3 ticks, Toll 0).
+Action 285: Travel to 'Piltover' (standard, 1 ticks, Toll 0).
+Action 286: Build 'farmhouse' in 'Piltover'.
+Action 287: Build 'fertilised-fields' in 'Piltover'.
+Action 288: Build 'pier' in 'Piltover'.
+Action 289: Build 'quarry' in 'Piltover'.
+Action 290: Build 'woodlands' in 'Piltover'.
+Action 291: Build 'pottery-house' in 'Piltover'.
+Action 292: Build 'rec-center' in 'Piltover'.
+Action 293: Build 'fire-station' in 'Piltover'.
+Action 294: Build 'school' in 'Piltover'.
+Action 295: Build 'library' in 'Piltover'.
+Action 296: Travel to 'Ionia' (standard, 1 ticks, Toll 0).
+Action 297: Build 'farmhouse' in 'Ionia'.
+Action 298: Build 'fertilised-fields' in 'Ionia'.
+Action 299: Build 'pier' in 'Ionia'.
+Action 300: Build 'quarry' in 'Ionia'.
+Action 301: Build 'woodlands' in 'Ionia'.
+Action 302: Build 'pottery-house' in 'Ionia'.
+Action 303: Build 'rec-center' in 'Ionia'.
+Action 304: Build 'fire-station' in 'Ionia'.
+Action 305: Build 'school' in 'Ionia'.
+Action 306: Build 'library' in 'Ionia'.
+Action 307: Travel to 'Piltover' (standard, 1 ticks, Toll 0).
+Action 308: Travel to 'N1' (standard, 1 ticks, Toll 0).
+Action 309: Travel to 'Zaun' (standard, 2 ticks, Toll 0).
+Action 310: Build 'farmhouse' in 'Zaun'.
+Action 311: Build 'fertilised-fields' in 'Zaun'.
+Action 312: Build 'pier' in 'Zaun'.
+Action 313: Build 'quarry' in 'Zaun'.
+Action 314: Build 'woodlands' in 'Zaun'.
+Action 315: Build 'pottery-house' in 'Zaun'.
+Action 316: Build 'rec-center' in 'Zaun'.
+Action 317: Build 'fire-station' in 'Zaun'.
+Action 318: Build 'school' in 'Zaun'.
+Action 319: Build 'library' in 'Zaun'.
+Action 320: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 321: Build 'farmhouse' in 'Targon'.
+Action 322: Build 'fertilised-fields' in 'Targon'.
+Action 323: Build 'pier' in 'Targon'.
+Action 324: Build 'quarry' in 'Targon'.
+Action 325: Build 'woodlands' in 'Targon'.
+Action 326: Build 'pottery-house' in 'Targon'.
+Action 327: Build 'rec-center' in 'Targon'.
+Action 328: Build 'fire-station' in 'Targon'.
+Action 329: Build 'school' in 'Targon'.
+Action 330: Build 'library' in 'Targon'.
+===================================
+Level 2 Scoring
+===================================
+Your Enteloot: 24154
+Held items value: 70731
+Total sale revenue: 157976
+===================================
+Final score: 12177735.0
