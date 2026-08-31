@@ -1,0 +1,453 @@
+Action 0: Buy 100 fish for 600 Enteloot.
+Action 1: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 2: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 3: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 4: Travel to 'Bilgewater' (standard, 4 ticks, Toll 0).
+Action 5: Travel to 'N21' (standard, 5 ticks, Toll 0).
+Action 6: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 7: Buy 50 wheat for 200 Enteloot.
+Action 8: Travel to 'N21' (standard, 1 ticks, Toll 0).
+Action 9: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0).
+Action 10: Travel to 'Evermoor' (standard, 4 ticks, Toll 0).
+Action 11: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 12: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 13: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 14: craft 50x fish-n-chips (recipe).
+Action 15: Sell 50 fish-n-chips for 2400 Enteloot.
+Action 16: Buy 300 fish for 1800 Enteloot.
+Action 17: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 18: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 19: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 20: Travel to 'Bilgewater' (standard, 4 ticks, Toll 0).
+Action 21: Travel to 'N21' (standard, 5 ticks, Toll 0).
+Action 22: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 23: Buy 150 wheat for 600 Enteloot.
+Action 24: Travel to 'N21' (standard, 1 ticks, Toll 0).
+Action 25: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0).
+Action 26: Travel to 'Evermoor' (standard, 4 ticks, Toll 0).
+Action 27: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 28: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 29: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 30: craft 150x fish-n-chips (recipe).
+Action 31: Sell 150 fish-n-chips for 7200 Enteloot.
+Action 32: Buy 900 fish for 5400 Enteloot.
+Action 33: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 34: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 35: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 36: Travel to 'Bilgewater' (standard, 4 ticks, Toll 0).
+Action 37: Travel to 'N21' (standard, 5 ticks, Toll 0).
+Action 38: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 39: Buy 450 wheat for 1800 Enteloot.
+Action 40: Travel to 'N21' (standard, 1 ticks, Toll 0).
+Action 41: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0).
+Action 42: Travel to 'Evermoor' (standard, 4 ticks, Toll 0).
+Action 43: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 44: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 45: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 46: craft 450x fish-n-chips (recipe).
+Action 47: Sell 450 fish-n-chips for 21600 Enteloot.
+Action 48: Buy 2700 fish for 16200 Enteloot.
+Action 49: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 50: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 51: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 52: Travel to 'Bilgewater' (standard, 4 ticks, Toll 0).
+Action 53: Travel to 'N21' (standard, 5 ticks, Toll 0).
+Action 54: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 55: Buy 1350 wheat for 5400 Enteloot.
+Action 56: Travel to 'N21' (standard, 1 ticks, Toll 0).
+Action 57: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0).
+Action 58: Travel to 'Evermoor' (standard, 4 ticks, Toll 0).
+Action 59: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 60: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 61: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 62: craft 1350x fish-n-chips (recipe).
+Action 63: Sell 1350 fish-n-chips for 64800 Enteloot.
+Action 64: Buy 8000 fish for 48000 Enteloot.
+Action 65: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 66: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 67: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 68: Travel to 'Bilgewater' (standard, 4 ticks, Toll 0).
+Action 69: Travel to 'N21' (standard, 5 ticks, Toll 0).
+Action 70: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 71: Buy 4000 wheat for 16000 Enteloot.
+Action 72: Travel to 'N21' (standard, 1 ticks, Toll 0).
+Action 73: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0).
+Action 74: Travel to 'Evermoor' (standard, 4 ticks, Toll 0).
+Action 75: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 76: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 77: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 78: craft 4000x fish-n-chips (recipe).
+Action 79: Sell 4000 fish-n-chips for 192000 Enteloot.
+Action 80: Buy 10000 fish for 60000 Enteloot.
+Action 81: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 82: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 83: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 84: Travel to 'Bilgewater' (standard, 4 ticks, Toll 0).
+Action 85: Travel to 'N21' (standard, 5 ticks, Toll 0).
+Action 86: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 87: Buy 5000 wheat for 20000 Enteloot.
+Action 88: Travel to 'N21' (standard, 1 ticks, Toll 0).
+Action 89: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0).
+Action 90: Travel to 'Evermoor' (standard, 4 ticks, Toll 0).
+Action 91: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 92: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 93: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 94: craft 5000x fish-n-chips (recipe).
+Action 95: Sell 5000 fish-n-chips for 240000 Enteloot.
+Action 96: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 97: gather 6 ore at 'N9' (3 ticks).
+Action 98: gather 6 ore at 'N9' (3 ticks).
+Action 99: gather 6 ore at 'N9' (3 ticks).
+Action 100: gather 6 ore at 'N9' (3 ticks).
+Action 101: gather 6 ore at 'N9' (3 ticks).
+Action 102: gather 6 ore at 'N9' (3 ticks).
+Action 103: gather 6 ore at 'N9' (3 ticks).
+Action 104: gather 6 ore at 'N9' (3 ticks).
+Action 105: gather 6 ore at 'N9' (3 ticks).
+Action 106: gather 6 ore at 'N9' (3 ticks).
+Action 107: gather 6 ore at 'N9' (3 ticks).
+Action 108: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 109: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 110: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 111: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 112: Travel to 'Bilgewater' (standard, 4 ticks, Toll 0).
+Action 113: Travel to 'N8' (standard, 6 ticks, Toll 0).
+Action 114: Travel to 'Aurora' (standard, 5 ticks, Toll 0).
+Action 115: Travel to 'Piltover' (standard, 1 ticks, Toll 0).
+Action 116: Buy 1022 wood for 5110 Enteloot.
+Action 117: Travel to 'Aurora' (standard, 1 ticks, Toll 0).
+Action 118: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 119: Travel to 'Shurima' (standard, 5 ticks, Toll 0).
+Action 120: Buy 120 wheat for 480 Enteloot.
+Action 121: Travel to 'N8' (standard, 5 ticks, Toll 0).
+Action 122: Travel to 'N20' (standard, 5 ticks, Toll 0).
+Action 123: Travel to 'Targon' (standard, 1 ticks, Toll 0).
+Action 124: Buy 394 sheep for 3152 Enteloot.
+Action 125: Travel to 'N19' (standard, 5 ticks, Toll 0).
+Action 126: Travel to 'N18' (standard, 6 ticks, Toll 0).
+Action 127: Travel to 'N6' (fast, 1 ticks, Toll 75).
+Action 128: Travel to 'Ixtal' (standard, 6 ticks, Toll 0).
+Action 129: Buy 1425 clay for 8550 Enteloot.
+Action 130: Travel to 'N6' (standard, 6 ticks, Toll 0).
+Action 131: Travel to 'N18' (fast, 1 ticks, Toll 75).
+Action 132: Travel to 'Freljord' (standard, 1 ticks, Toll 0).
+Action 133: Travel to 'Aurora' (standard, 2 ticks, Toll 0).
+Action 134: Travel to 'N11' (fast, 4 ticks, Toll 50).
+Action 135: Travel to 'N5' (standard, 1 ticks, Toll 0).
+Action 136: Travel to 'Zaun' (standard, 1 ticks, Toll 0).
+Action 137: Buy 885 stone for 4425 Enteloot.
+Action 138: Travel to 'N5' (standard, 1 ticks, Toll 0).
+Action 139: Travel to 'N11' (standard, 1 ticks, Toll 0).
+Action 140: Travel to 'N2' (standard, 2 ticks, Toll 0).
+Action 141: Travel to 'Noxus' (standard, 4 ticks, Toll 0).
+Action 142: Travel to 'N7' (standard, 1 ticks, Toll 0).
+Action 143: Travel to 'Bilgewater' (standard, 4 ticks, Toll 0).
+Action 144: Travel to 'Evermoor' (standard, 4 ticks, Toll 0).
+Action 145: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 146: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 147: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 148: craft 138x planks (component).
+Action 149: craft 24x thatch (component).
+Action 150: craft 174x mortar (component).
+Action 151: craft 174x bricks (component).
+Action 152: craft 60x stone-blocks (component).
+Action 153: craft 24x kiln-glass (component).
+Action 154: craft 80x rope (component).
+Action 155: craft 36x fencing (component).
+Action 156: craft 12x nets (component).
+Action 157: craft 14x iron-fittings (component).
+Action 158: craft 1x boots (tool).
+Action 159: Build 'farmhouse' in 'Demacia'.
+Action 160: Build 'fertilised-fields' in 'Demacia'.
+Action 161: Build 'rec-center' in 'Demacia'.
+Action 162: Build 'fire-station' in 'Demacia'.
+Action 163: Build 'school' in 'Demacia'.
+Action 164: Build 'library' in 'Demacia'.
+Action 165: Build 'police-station' in 'Demacia'.
+Action 166: Build 'pier' in 'Demacia'.
+Action 167: Build 'quarry' in 'Demacia'.
+Action 168: Build 'woodlands' in 'Demacia'.
+Action 169: Build 'pottery-house' in 'Demacia'.
+Action 170: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 171: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 172: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 173: Travel to 'Bilgewater' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 174: Travel to 'N7' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 175: Travel to 'Noxus' (standard, 1 ticks, Toll 0).
+Action 176: Build 'farmhouse' in 'Noxus'.
+Action 177: Build 'fertilised-fields' in 'Noxus'.
+Action 178: Build 'rec-center' in 'Noxus'.
+Action 179: Build 'fire-station' in 'Noxus'.
+Action 180: Build 'school' in 'Noxus'.
+Action 181: Build 'library' in 'Noxus'.
+Action 182: Build 'police-station' in 'Noxus'.
+Action 183: Build 'pier' in 'Noxus'.
+Action 184: Build 'quarry' in 'Noxus'.
+Action 185: Build 'woodlands' in 'Noxus'.
+Action 186: Build 'pottery-house' in 'Noxus'.
+Action 187: Travel to 'N2' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 188: Travel to 'N11' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 189: Travel to 'Aurora' (fast, 3 ticks, Toll 50, boots reduced ticks from 4 to 3).
+Action 190: Travel to 'Piltover' (standard, 1 ticks, Toll 0).
+Action 191: Build 'farmhouse' in 'Piltover'.
+Action 192: Build 'fertilised-fields' in 'Piltover'.
+Action 193: Build 'rec-center' in 'Piltover'.
+Action 194: Build 'fire-station' in 'Piltover'.
+Action 195: Build 'school' in 'Piltover'.
+Action 196: Build 'library' in 'Piltover'.
+Action 197: Build 'police-station' in 'Piltover'.
+Action 198: Build 'pier' in 'Piltover'.
+Action 199: Build 'quarry' in 'Piltover'.
+Action 200: Build 'woodlands' in 'Piltover'.
+Action 201: Build 'pottery-house' in 'Piltover'.
+Action 202: Travel to 'Aurora' (standard, 1 ticks, Toll 0).
+Action 203: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 204: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 205: Travel to 'N17' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 206: Travel to 'Bandle' (fast, 2 ticks, Toll 30, boots reduced ticks from 3 to 2).
+Action 207: Travel to 'Ionia' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 208: Build 'farmhouse' in 'Ionia'.
+Action 209: Build 'fertilised-fields' in 'Ionia'.
+Action 210: Build 'rec-center' in 'Ionia'.
+Action 211: Build 'fire-station' in 'Ionia'.
+Action 212: Build 'school' in 'Ionia'.
+Action 213: Build 'library' in 'Ionia'.
+Action 214: Build 'police-station' in 'Ionia'.
+Action 215: Build 'pier' in 'Ionia'.
+Action 216: Build 'quarry' in 'Ionia'.
+Action 217: Build 'woodlands' in 'Ionia'.
+Action 218: Build 'pottery-house' in 'Ionia'.
+Action 219: Travel to 'Bandle' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 220: Travel to 'N17' (fast, 2 ticks, Toll 30, boots reduced ticks from 3 to 2).
+Action 221: Travel to 'Bilgewater' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 222: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 223: Travel to 'Aurora' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 224: Travel to 'Freljord' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 225: Build 'farmhouse' in 'Freljord'.
+Action 226: Build 'fertilised-fields' in 'Freljord'.
+Action 227: Build 'rec-center' in 'Freljord'.
+Action 228: Build 'fire-station' in 'Freljord'.
+Action 229: Build 'school' in 'Freljord'.
+Action 230: Build 'library' in 'Freljord'.
+Action 231: Build 'police-station' in 'Freljord'.
+Action 232: Build 'pier' in 'Freljord'.
+Action 233: Build 'quarry' in 'Freljord'.
+Action 234: Build 'woodlands' in 'Freljord'.
+Action 235: Build 'pottery-house' in 'Freljord'.
+Action 236: Travel to 'N18' (standard, 1 ticks, Toll 0).
+Action 237: Travel to 'N19' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 238: Travel to 'Targon' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 239: Build 'farmhouse' in 'Targon'.
+Action 240: Build 'fertilised-fields' in 'Targon'.
+Action 241: Build 'rec-center' in 'Targon'.
+Action 242: Build 'fire-station' in 'Targon'.
+Action 243: Build 'school' in 'Targon'.
+Action 244: Build 'library' in 'Targon'.
+Action 245: Build 'police-station' in 'Targon'.
+Action 246: Build 'pier' in 'Targon'.
+Action 247: Build 'quarry' in 'Targon'.
+Action 248: Build 'woodlands' in 'Targon'.
+Action 249: Build 'pottery-house' in 'Targon'.
+Action 250: craft 207x planks (component).
+Action 251: craft 36x thatch (component).
+Action 252: craft 261x mortar (component).
+Action 253: craft 261x bricks (component).
+Action 254: craft 90x stone-blocks (component).
+Action 255: craft 36x kiln-glass (component).
+Action 256: craft 117x rope (component).
+Action 257: craft 54x fencing (component).
+Action 258: craft 18x nets (component).
+Action 259: craft 18x iron-fittings (component).
+Action 260: Travel to 'N4' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 261: Travel to 'Zaun' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 262: Build 'farmhouse' in 'Zaun'.
+Action 263: Build 'fertilised-fields' in 'Zaun'.
+Action 264: Build 'rec-center' in 'Zaun'.
+Action 265: Build 'fire-station' in 'Zaun'.
+Action 266: Build 'school' in 'Zaun'.
+Action 267: Build 'library' in 'Zaun'.
+Action 268: Build 'police-station' in 'Zaun'.
+Action 269: Build 'pier' in 'Zaun'.
+Action 270: Build 'quarry' in 'Zaun'.
+Action 271: Build 'woodlands' in 'Zaun'.
+Action 272: Build 'pottery-house' in 'Zaun'.
+Action 273: Travel to 'N5' (standard, 1 ticks, Toll 0).
+Action 274: Travel to 'N11' (standard, 1 ticks, Toll 0).
+Action 275: Travel to 'N1' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 276: Travel to 'Shurima' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 277: Build 'farmhouse' in 'Shurima'.
+Action 278: Build 'fertilised-fields' in 'Shurima'.
+Action 279: Build 'rec-center' in 'Shurima'.
+Action 280: Build 'fire-station' in 'Shurima'.
+Action 281: Build 'school' in 'Shurima'.
+Action 282: Build 'library' in 'Shurima'.
+Action 283: Build 'police-station' in 'Shurima'.
+Action 284: Build 'pier' in 'Shurima'.
+Action 285: Build 'quarry' in 'Shurima'.
+Action 286: Build 'woodlands' in 'Shurima'.
+Action 287: Build 'pottery-house' in 'Shurima'.
+Action 288: Travel to 'N21' (standard, 1 ticks, Toll 0).
+Action 289: Travel to 'Bilgewater' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 290: Build 'farmhouse' in 'Bilgewater'.
+Action 291: Build 'fertilised-fields' in 'Bilgewater'.
+Action 292: Build 'rec-center' in 'Bilgewater'.
+Action 293: Build 'fire-station' in 'Bilgewater'.
+Action 294: Build 'school' in 'Bilgewater'.
+Action 295: Build 'library' in 'Bilgewater'.
+Action 296: Build 'police-station' in 'Bilgewater'.
+Action 297: Build 'pier' in 'Bilgewater'.
+Action 298: Build 'quarry' in 'Bilgewater'.
+Action 299: Build 'woodlands' in 'Bilgewater'.
+Action 300: Build 'pottery-house' in 'Bilgewater'.
+Action 301: Travel to 'Evermoor' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 302: Travel to 'Ixtal' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 303: Build 'farmhouse' in 'Ixtal'.
+Action 304: Build 'fertilised-fields' in 'Ixtal'.
+Action 305: Build 'rec-center' in 'Ixtal'.
+Action 306: Build 'fire-station' in 'Ixtal'.
+Action 307: Build 'school' in 'Ixtal'.
+Action 308: Build 'library' in 'Ixtal'.
+Action 309: Build 'police-station' in 'Ixtal'.
+Action 310: Build 'pier' in 'Ixtal'.
+Action 311: Build 'quarry' in 'Ixtal'.
+Action 312: Build 'woodlands' in 'Ixtal'.
+Action 313: Build 'pottery-house' in 'Ixtal'.
+Action 314: Travel to 'Evermoor' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 315: Travel to 'Bilgewater' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 316: Travel to 'N17' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 317: Travel to 'Bandle' (fast, 2 ticks, Toll 30, boots reduced ticks from 3 to 2).
+Action 318: Build 'farmhouse' in 'Bandle'.
+Action 319: Build 'fertilised-fields' in 'Bandle'.
+Action 320: Build 'rec-center' in 'Bandle'.
+Action 321: Build 'fire-station' in 'Bandle'.
+Action 322: Build 'school' in 'Bandle'.
+Action 323: Build 'library' in 'Bandle'.
+Action 324: Build 'police-station' in 'Bandle'.
+Action 325: Build 'pier' in 'Bandle'.
+Action 326: Build 'quarry' in 'Bandle'.
+Action 327: Build 'woodlands' in 'Bandle'.
+Action 328: Build 'pottery-house' in 'Bandle'.
+Action 329: Travel to 'N17' (fast, 2 ticks, Toll 30, boots reduced ticks from 3 to 2).
+Action 330: Travel to 'Bilgewater' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 331: Travel to 'N8' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 332: Travel to 'Aurora' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 333: Build 'farmhouse' in 'Aurora'.
+Action 334: Build 'fertilised-fields' in 'Aurora'.
+Action 335: Build 'rec-center' in 'Aurora'.
+Action 336: Build 'fire-station' in 'Aurora'.
+Action 337: Build 'school' in 'Aurora'.
+Action 338: Build 'library' in 'Aurora'.
+Action 339: Build 'police-station' in 'Aurora'.
+Action 340: Build 'pier' in 'Aurora'.
+Action 341: Build 'quarry' in 'Aurora'.
+Action 342: Build 'woodlands' in 'Aurora'.
+Action 343: Build 'pottery-house' in 'Aurora'.
+Action 344: Travel to 'N8' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 345: Travel to 'Bilgewater' (standard, 5 ticks, Toll 0, boots reduced ticks from 6 to 5).
+Action 346: Travel to 'Evermoor' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 347: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 348: Build 'farmhouse' in 'Borealis'.
+Action 349: Build 'fertilised-fields' in 'Borealis'.
+Action 350: Build 'rec-center' in 'Borealis'.
+Action 351: Build 'fire-station' in 'Borealis'.
+Action 352: Build 'school' in 'Borealis'.
+Action 353: Build 'library' in 'Borealis'.
+Action 354: Build 'police-station' in 'Borealis'.
+Action 355: Build 'pier' in 'Borealis'.
+Action 356: Build 'quarry' in 'Borealis'.
+Action 357: Build 'woodlands' in 'Borealis'.
+Action 358: Build 'pottery-house' in 'Borealis'.
+Action 359: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 360: Build 'farmhouse' in 'Evermoor'.
+Action 361: Build 'fertilised-fields' in 'Evermoor'.
+Action 362: Build 'rec-center' in 'Evermoor'.
+Action 363: Build 'fire-station' in 'Evermoor'.
+Action 364: Build 'school' in 'Evermoor'.
+Action 365: Build 'library' in 'Evermoor'.
+Action 366: Build 'police-station' in 'Evermoor'.
+Action 367: Build 'pier' in 'Evermoor'.
+Action 368: Build 'quarry' in 'Evermoor'.
+Action 369: Build 'woodlands' in 'Evermoor'.
+Action 370: Build 'pottery-house' in 'Evermoor'.
+Action 371: Travel to 'Bilgewater' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 372: Travel to 'N7' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 373: Travel to 'Noxus' (standard, 1 ticks, Toll 0).
+Action 374: Travel to 'N2' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 375: Travel to 'N11' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 376: Travel to 'Highgarden' (fast, 3 ticks, Toll 30, boots reduced ticks from 4 to 3).
+Action 377: Build 'farmhouse' in 'Highgarden'.
+Action 378: Build 'fertilised-fields' in 'Highgarden'.
+Action 379: Build 'rec-center' in 'Highgarden'.
+Action 380: Build 'fire-station' in 'Highgarden'.
+Action 381: Build 'school' in 'Highgarden'.
+Action 382: Build 'library' in 'Highgarden'.
+Action 383: Build 'police-station' in 'Highgarden'.
+Action 384: Build 'pier' in 'Highgarden'.
+Action 385: Build 'quarry' in 'Highgarden'.
+Action 386: Build 'woodlands' in 'Highgarden'.
+Action 387: Build 'pottery-house' in 'Highgarden'.
+Action 388: Travel to 'N11' (fast, 3 ticks, Toll 30, boots reduced ticks from 4 to 3).
+Action 389: Travel to 'N2' (standard, 1 ticks, Toll 0, boots reduced ticks from 2 to 1).
+Action 390: Travel to 'Noxus' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 391: Travel to 'N7' (standard, 1 ticks, Toll 0).
+Action 392: Travel to 'Bilgewater' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 393: Travel to 'Evermoor' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 394: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 395: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 396: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 397: Buy 12000 fish for 72000 Enteloot.
+Action 398: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 399: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 400: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 401: Travel to 'Bilgewater' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 402: Travel to 'N21' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 403: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 404: Buy 6000 wheat for 24000 Enteloot.
+Action 405: Travel to 'N21' (standard, 1 ticks, Toll 0).
+Action 406: Travel to 'Bilgewater' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 407: Travel to 'Evermoor' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 408: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 409: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 410: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 411: craft 6000x fish-n-chips (recipe).
+Action 412: Sell 6000 fish-n-chips for 288000 Enteloot.
+Action 413: Buy 30000 fish for 180000 Enteloot.
+Action 414: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 415: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 416: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 417: Travel to 'Bilgewater' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 418: Travel to 'N21' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 419: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 420: Buy 15000 wheat for 60000 Enteloot.
+Action 421: Travel to 'N21' (standard, 1 ticks, Toll 0).
+Action 422: Travel to 'Bilgewater' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 423: Travel to 'Evermoor' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 424: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 425: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 426: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 427: craft 15000x fish-n-chips (recipe).
+Action 428: Sell 15000 fish-n-chips for 720000 Enteloot.
+Action 429: Buy 30008 fish for 180048 Enteloot.
+Action 430: Travel to 'N9' (standard, 1 ticks, Toll 0).
+Action 431: Travel to 'Borealis' (fast, 1 ticks, Toll 30).
+Action 432: Travel to 'Evermoor' (standard, 1 ticks, Toll 0).
+Action 433: Travel to 'Bilgewater' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 434: Travel to 'N21' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 435: Travel to 'Shurima' (standard, 1 ticks, Toll 0).
+Action 436: Buy 15004 wheat for 60016 Enteloot.
+Action 437: Travel to 'N21' (standard, 1 ticks, Toll 0).
+Action 438: Travel to 'Bilgewater' (standard, 4 ticks, Toll 0, boots reduced ticks from 5 to 4).
+Action 439: Travel to 'Evermoor' (standard, 3 ticks, Toll 0, boots reduced ticks from 4 to 3).
+Action 440: Travel to 'Borealis' (standard, 1 ticks, Toll 0).
+Action 441: Travel to 'N9' (fast, 1 ticks, Toll 30).
+Action 442: Travel to 'Demacia' (standard, 1 ticks, Toll 0).
+Action 443: craft 15004x fish-n-chips (recipe).
+Action 444: Sell 15004 fish-n-chips for 720192 Enteloot.
+===================================
+Level 3 Scoring
+===================================
+Your Enteloot: 1374379
+Held items value: 1473648
+Total sale revenue: 2256192
+===================================
+Final score: 14204630.0
